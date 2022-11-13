@@ -1,7 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on my discord bot and my bot-list.
-- 🌱 I’m currently learning Python, JavaScript
+<div align="center">
+    <h1>Hi, <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm DevMirza</h1>
+    <h4 align="center">A Full-stack developer who codes Sh$t Stuffs!</h4>
+</div>
 
-## Stats
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)</br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zaid-maker)](https://github.com/anuraghazra/github-readme-stats)</br>
+<div align="center">
+    <a href="https://www.devmirza.ml">
+        <img src="https://github.com/JanjyTapYT/JanjyTapYT/blob/main/resources/img/grid-snake.svg" alt="snake" />
+    </a>
+</div>
