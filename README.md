@@ -1,3 +1,5 @@
+# My Information
+
 <div align="center">
     <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm DevMirza</h1>
     <h4 align="center">A Full-stack developer who codes Sh$t Stuffs!</h4>
@@ -8,3 +10,51 @@
         <img src="https://github.com/JanjyTapYT/JanjyTapYT/blob/main/resources/img/grid-snake.svg" alt="snake" />
     </a>
 </div>
+
+<details>
+    <summary>💌 Contact Me</summary>
+    <div>
+        <samp>
+            <h2 align="center">😎 you can reach me at:</h2>
+            <p align="center">
+                <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="blank">
+                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+                </a>
+            </p>
+        </samp>
+    </div>
+</details>
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+    <div>
+        <h2 align="center">📊 Github Stats</h2>
+        <br />
+        <p align="center">
+            <a href="https://github.com/Zaid-maker">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=Zaid-maker&theme=dark&hide_border=true&border_radius=10" />
+            </a>
+        </p>
+        <p align="center">
+            <a href="https://github.com/Zaid-maker">
+                <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Zaid-maker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+                <img width="49.5%" src="https://activity-graph.herokuapp.com/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+            </a>
+        </p>
+    </div>
+</details>
+
+<details>
+    <summary>⚙️ Technologies i use</summary>
+    <div>
+        <h2 align="center"> ⚙️ Technologies I use </h2>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express&theme=dark" />
+    </div>
+</details>
+
+<details>
+  <summary>📈 Latest Activity Graph</summary>
+  <br/>
+  <h2 align="center">👇 latest contribution 👇</h2>
+    <a href="https://github.com/Zaid-maker/"><img alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</details>
