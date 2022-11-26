@@ -1,0 +1,25 @@
+name: Github 3D Profile Contributions
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs_on: ubuntu-latest
+    name: Github 3D Profile
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name Zaid-maker
+          git config user.email pzhafeez@gmail.com
+          git add -A .
+          git commit -m "Generate & Update 3D Profile"
+          git push
