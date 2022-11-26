@@ -58,3 +58,10 @@
   <h2 align="center">👇 latest contribution 👇</h2>
     <a href="https://github.com/Zaid-maker/"><img alt="JanjyTapYT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </details>
+
+<details>
+    <summary>🤡 More Advanced Activity Graph</summary>
+    <br />
+    <h2 align="center">🤡 More Advanced Activity Graph</h2>
+    <img src="https://raw.githubusercontent.com/Zaid-maker/Zaid-maker/master/profile-3d-contrib/profile-green-animate.svg" />
+</details>
