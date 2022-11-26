@@ -63,5 +63,5 @@
     <summary>🤡 More Advanced Activity Graph</summary>
     <br />
     <h2 align="center">🤡 More Advanced Activity Graph</h2>
-    <img src="https://raw.githubusercontent.com/Zaid-maker/Zaid-maker/master/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/Zaid-maker/Zaid-maker/master/profile-3d-contrib/profile-night-green.svg" />
 </details>
