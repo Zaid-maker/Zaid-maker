@@ -32,7 +32,7 @@
         <br />
         <p align="center">
             <a href="https://github.com/Zaid-maker">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=Zaid-maker&theme=dark&hide_border=true&border_radius=10" />
+                <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=Zaid-maker&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
             </a>
         </p>
         <p align="center">
