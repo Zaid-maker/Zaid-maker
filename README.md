@@ -56,7 +56,7 @@
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center">👇 latest contribution 👇</h2>
-    <a href="https://github.com/Zaid-maker/"><img alt="JanjyTapYT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/Zaid-maker/"><img alt="Zaid-maker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <details>
