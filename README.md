@@ -1,4 +1,4 @@
-# My Information
+# My Information [![wakatime](https://wakatime.com/badge/user/d594dc95-07a5-471b-a3e1-8d5fea65bed3.svg)](https://wakatime.com/@d594dc95-07a5-471b-a3e1-8d5fea65bed3)
 
 <div align="center">
     <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm DevMirza</h1>
