@@ -19,7 +19,7 @@
         <samp>
             <h2 align="center">😎 you can reach me at:</h2>
             <p align="center">
-                <a href="www.linkedin.com/in/zaid-hafeez-7084b0149/" target="blank">
+                <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="blank">
                     <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
                 </a>
             </p>
