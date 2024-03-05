@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4411](https://github.com/louislam/uptime-kuma/pull/4411#issuecomment-1979472314) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. ❌ Closed PR [#12](https://github.com/Zaid-maker/Zaid-maker/pull/12) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-3. 🗣 Commented on [#1](https://github.com/Rahuletto/pickr/issues/1#issuecomment-1975962339) in [Rahuletto/pickr](https://github.com/Rahuletto/pickr)
-4. ❗ Opened issue [#460](https://github.com/Zaid-maker/status-page-advanced/issues/460) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#1](https://github.com/Zaid-maker/quickstart-compose/pull/1) in [Zaid-maker/quickstart-compose](https://github.com/Zaid-maker/quickstart-compose)
+2. ❌ Closed PR [#115](https://github.com/UffizziCloud/quickstart-compose/pull/115) in [UffizziCloud/quickstart-compose](https://github.com/UffizziCloud/quickstart-compose)
+3. 💪 Opened PR [#115](https://github.com/UffizziCloud/quickstart-compose/pull/115) in [UffizziCloud/quickstart-compose](https://github.com/UffizziCloud/quickstart-compose)
+4. 🗣 Commented on [#4411](https://github.com/louislam/uptime-kuma/pull/4411#issuecomment-1979472314) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
