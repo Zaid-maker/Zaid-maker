@@ -28,6 +28,13 @@
 </details>
 
 <details>
+    <summary>Recent Activity</summary>
+    <br />
+    <h1>Recent Activity</h1>
+    <!--START_SECTION:activity-->
+</details>
+
+<details>
   <summary>💻 GitHub Profile Stats</summary>
     <div>
         <h2 align="center">📊 Github Stats</h2>
