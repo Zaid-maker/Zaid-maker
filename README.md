@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Zaid-maker/miro-boards/pull/3) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
-2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/upload-to-drive/pull/1) in [Zaid-maker/upload-to-drive](https://github.com/Zaid-maker/upload-to-drive)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/quickstart-compose/pull/1) in [Zaid-maker/quickstart-compose](https://github.com/Zaid-maker/quickstart-compose)
-4. 🗣 Commented on [#4411](https://github.com/louislam/uptime-kuma/pull/4411#issuecomment-1979639350) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 🗣 Commented on [#461](https://github.com/Zaid-maker/status-page-advanced/issues/461#issuecomment-1980984792) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#461](https://github.com/Zaid-maker/status-page-advanced/issues/461) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 💪 Opened PR [#4557](https://github.com/louislam/uptime-kuma/pull/4557) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. ❗ Opened issue [#461](https://github.com/Zaid-maker/status-page-advanced/issues/461) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
