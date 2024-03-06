@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981150225) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981075996) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981071855) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. ❌ Closed PR [#5](https://github.com/Zaid-maker/miro-boards/pull/5) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/pterodactyl-eggs/pull/1) in [Zaid-maker/pterodactyl-eggs](https://github.com/Zaid-maker/pterodactyl-eggs)
+2. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981150225) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981075996) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1981071855) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
