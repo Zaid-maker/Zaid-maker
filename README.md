@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462#issuecomment-1982690060) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🎉 Merged PR [#1](https://github.com/Zaid-maker/pterodactyl-eggs/pull/1) in [Zaid-maker/pterodactyl-eggs](https://github.com/Zaid-maker/pterodactyl-eggs)
+1. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1982769648) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🔒 Closed issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462#issuecomment-1982690060) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
