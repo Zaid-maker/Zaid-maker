@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1982769648) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🔒 Closed issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🗣 Commented on [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462#issuecomment-1982690060) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1983492236) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🚀 Published release [v0.1.0](https://github.com/Zaid-maker/miro-boards/releases/tag/v0.1.0) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1982769648) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🔒 Closed issue [#462](https://github.com/Zaid-maker/status-page-advanced/issues/462) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
