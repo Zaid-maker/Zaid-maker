@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/Zaid-maker/turborepo-monorepo/pull/188) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
-2. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1983521620) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1983492236) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 🚀 Published release [v0.1.0](https://github.com/Zaid-maker/miro-boards/releases/tag/v0.1.0) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+1. 🎉 Merged PR [#12](https://github.com/Zaid-maker/miro-boards/pull/12) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+2. 💪 Opened PR [#12](https://github.com/Zaid-maker/miro-boards/pull/12) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/miro-boards/pull/6) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+4. 💪 Opened PR [#6](https://github.com/Zaid-maker/miro-boards/pull/6) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
 <!--END_SECTION:activity-->
 </details>
 
