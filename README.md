@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Darker-Ink/emojis/pull/1) in [Darker-Ink/emojis](https://github.com/Darker-Ink/emojis)
-2. 🎉 Merged PR [#14](https://github.com/Zaid-maker/miro-boards/pull/14) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
-3. ❌ Closed PR [#11](https://github.com/Zaid-maker/miro-boards/pull/11) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
-4. ❌ Closed PR [#10](https://github.com/Zaid-maker/miro-boards/pull/10) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+1. 🗣 Commented on [#6](https://github.com/skyprolk/Clash-Of-SL/issues/6#issuecomment-1987112814) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
+2. 💪 Opened PR [#1](https://github.com/Darker-Ink/emojis/pull/1) in [Darker-Ink/emojis](https://github.com/Darker-Ink/emojis)
+3. 🎉 Merged PR [#14](https://github.com/Zaid-maker/miro-boards/pull/14) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+4. ❌ Closed PR [#11](https://github.com/Zaid-maker/miro-boards/pull/11) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
 <!--END_SECTION:activity-->
 </details>
 
