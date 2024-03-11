@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. ❗ Opened issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🗣 Commented on [#10](https://github.com/skyprolk/Clash-Of-SL/issues/10#issuecomment-1987905414) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
-3. ❗ Opened issue [#10](https://github.com/skyprolk/Clash-Of-SL/issues/10) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
-4. 🗣 Commented on [#463](https://github.com/Zaid-maker/status-page-advanced/issues/463#issuecomment-1987744683) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#79](https://github.com/DevMirza-Blog/status/issues/79#issuecomment-1988201213) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🔒 Closed issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. ❗ Opened issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🗣 Commented on [#10](https://github.com/skyprolk/Clash-Of-SL/issues/10#issuecomment-1987905414) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
 <!--END_SECTION:activity-->
 </details>
 
