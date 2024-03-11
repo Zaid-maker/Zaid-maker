@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1988843070) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-2. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1988842390) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-3. 🗣 Commented on [#79](https://github.com/DevMirza-Blog/status/issues/79#issuecomment-1988201213) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🔒 Closed issue [#464](https://github.com/Zaid-maker/status-page-advanced/issues/464) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#464](https://github.com/Zaid-maker/status-page-advanced/issues/464#issuecomment-1988933367) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 💪 Opened PR [#3](https://github.com/lulu5239/view-loggers/pull/3) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+4. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1988904862) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
 <!--END_SECTION:activity-->
 </details>
 
