@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/DevMirza-Blog/status/issues/79#issuecomment-1988201213) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🔒 Closed issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. ❗ Opened issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🗣 Commented on [#10](https://github.com/skyprolk/Clash-Of-SL/issues/10#issuecomment-1987905414) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
+1. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1988843070) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+2. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1988842390) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+3. 🗣 Commented on [#79](https://github.com/DevMirza-Blog/status/issues/79#issuecomment-1988201213) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#79](https://github.com/DevMirza-Blog/status/issues/79) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 </details>
 
