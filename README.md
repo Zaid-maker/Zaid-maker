@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/skyprolk/Clash-Of-SL/issues/6) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
-2. 🗣 Commented on [#6](https://github.com/skyprolk/Clash-Of-SL/issues/6#issuecomment-1987112814) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
-3. 💪 Opened PR [#1](https://github.com/Darker-Ink/emojis/pull/1) in [Darker-Ink/emojis](https://github.com/Darker-Ink/emojis)
-4. 🎉 Merged PR [#14](https://github.com/Zaid-maker/miro-boards/pull/14) in [Zaid-maker/miro-boards](https://github.com/Zaid-maker/miro-boards)
+1. 🗣 Commented on [#463](https://github.com/Zaid-maker/status-page-advanced/issues/463#issuecomment-1987744683) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#463](https://github.com/Zaid-maker/status-page-advanced/issues/463) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#463](https://github.com/Zaid-maker/status-page-advanced/issues/463) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#6](https://github.com/skyprolk/Clash-Of-SL/issues/6) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
 <!--END_SECTION:activity-->
 </details>
 
