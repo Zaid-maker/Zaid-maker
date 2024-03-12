@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/skyprolk/Clash-Of-SL/issues/10#issuecomment-1989305235) in [skyprolk/Clash-Of-SL](https://github.com/skyprolk/Clash-Of-SL)
-2. 🗣 Commented on [#465](https://github.com/Zaid-maker/status-page-advanced/issues/465#issuecomment-1989217949) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#465](https://github.com/Zaid-maker/status-page-advanced/issues/465) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#465](https://github.com/Zaid-maker/status-page-advanced/issues/465) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1991005932) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+2. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1991003510) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+3. 🗣 Commented on [#4](https://github.com/lulu5239/view-loggers/pull/4#issuecomment-1991001908) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+4. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1991000657) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
 <!--END_SECTION:activity-->
 </details>
 
