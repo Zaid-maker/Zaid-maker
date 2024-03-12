@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992328067) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-2. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992241954) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-3. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992225495) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-4. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992220819) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+1. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1992389959) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+2. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992385743) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+3. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992328067) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+4. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1992241954) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
 <!--END_SECTION:activity-->
 </details>
 
