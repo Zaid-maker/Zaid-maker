@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1991005932) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-2. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1991003510) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-3. 🗣 Commented on [#4](https://github.com/lulu5239/view-loggers/pull/4#issuecomment-1991001908) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
-4. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1991000657) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+1. 🎉 Merged PR [#188](https://github.com/Zaid-maker/turborepo-monorepo/pull/188) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
+2. 🗣 Commented on [#3](https://github.com/lulu5239/view-loggers/pull/3#issuecomment-1991005932) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+3. 🗣 Commented on [#2](https://github.com/lulu5239/view-loggers/issues/2#issuecomment-1991003510) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
+4. 🗣 Commented on [#4](https://github.com/lulu5239/view-loggers/pull/4#issuecomment-1991001908) in [lulu5239/view-loggers](https://github.com/lulu5239/view-loggers)
 <!--END_SECTION:activity-->
 </details>
 
