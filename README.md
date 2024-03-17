@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4590](https://github.com/louislam/uptime-kuma/pull/4590#issuecomment-2002361383) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🎉 Merged PR [#19](https://github.com/Zaid-maker/code-server/pull/19) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1999194616) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 🗣 Commented on [#471](https://github.com/Zaid-maker/status-page-advanced/issues/471#issuecomment-1998862606) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#90](https://github.com/Zaid-maker/uptime-kuma/pull/90) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. 🗣 Commented on [#4590](https://github.com/louislam/uptime-kuma/pull/4590#issuecomment-2002361383) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🎉 Merged PR [#19](https://github.com/Zaid-maker/code-server/pull/19) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
+4. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-1999194616) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
