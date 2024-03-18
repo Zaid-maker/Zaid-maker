@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#472](https://github.com/Zaid-maker/status-page-advanced/issues/472#issuecomment-2002584061) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#472](https://github.com/Zaid-maker/status-page-advanced/issues/472) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🎉 Merged PR [#14](https://github.com/Zaid-maker/Zaid-maker/pull/14) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-4. 💪 Opened PR [#90](https://github.com/Zaid-maker/uptime-kuma/pull/90) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1. 🗣 Commented on [#32](https://github.com/Cyclone-Bot-List/uptime/issues/32#issuecomment-2003046818) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🔒 Closed issue [#32](https://github.com/Cyclone-Bot-List/uptime/issues/32) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#32](https://github.com/Cyclone-Bot-List/uptime/issues/32) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🗣 Commented on [#472](https://github.com/Zaid-maker/status-page-advanced/issues/472#issuecomment-2002584061) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
