@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/Zaid-maker/turborepo-monorepo/pull/197) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
-2. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-2009092053) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#33](https://github.com/Cyclone-Bot-List/uptime/issues/33#issuecomment-2007626688) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 🔒 Closed issue [#33](https://github.com/Cyclone-Bot-List/uptime/issues/33) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. ❗ Opened issue [#475](https://github.com/Zaid-maker/status-page-advanced/issues/475) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🎉 Merged PR [#197](https://github.com/Zaid-maker/turborepo-monorepo/pull/197) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
+3. 🗣 Commented on [#4557](https://github.com/louislam/uptime-kuma/pull/4557#issuecomment-2009092053) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#33](https://github.com/Cyclone-Bot-List/uptime/issues/33#issuecomment-2007626688) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 </details>
 
