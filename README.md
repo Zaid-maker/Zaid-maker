@@ -32,9 +32,9 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/Zaid-maker/uptime-kuma/pull/92) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. ❗ Opened issue [#486](https://github.com/Zaid-maker/status-page-advanced/issues/486) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🎉 Merged PR [#51](https://github.com/Zaid-maker/cyclone-messaging/pull/51) in [Zaid-maker/cyclone-messaging](https://github.com/Zaid-maker/cyclone-messaging)
+1. 🗣 Commented on [#3747](https://github.com/louislam/uptime-kuma/pull/3747#issuecomment-2022521924) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 💪 Opened PR [#92](https://github.com/Zaid-maker/uptime-kuma/pull/92) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. ❗ Opened issue [#486](https://github.com/Zaid-maker/status-page-advanced/issues/486) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🗣 Commented on [#51](https://github.com/Zaid-maker/cyclone-messaging/pull/51#issuecomment-2016805626) in [Zaid-maker/cyclone-messaging](https://github.com/Zaid-maker/cyclone-messaging)
 <!--END_SECTION:activity-->
 </details>
