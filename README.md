@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487#issuecomment-2025589591) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#4625](https://github.com/louislam/uptime-kuma/pull/4625#issuecomment-2024696859) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ❗ Opened issue [#488](https://github.com/Zaid-maker/status-page-advanced/issues/488) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487#issuecomment-2025589591) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
