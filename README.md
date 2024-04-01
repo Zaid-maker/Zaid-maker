@@ -32,8 +32,8 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. ❗ Opened issue [#488](https://github.com/Zaid-maker/status-page-advanced/issues/488) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487#issuecomment-2025589591) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#1](https://github.com/findtoni/3inches/pull/1#issuecomment-2030436480) in [findtoni/3inches](https://github.com/findtoni/3inches)
+2. ❗ Opened issue [#488](https://github.com/Zaid-maker/status-page-advanced/issues/488) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. 🔒 Closed issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
