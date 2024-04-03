@@ -32,9 +32,9 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Zaid-maker/nitro-generator/pull/12#issuecomment-2034566968) in [Zaid-maker/nitro-generator](https://github.com/Zaid-maker/nitro-generator)
-2. 🎉 Merged PR [#17](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/17) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
-3. 🔒 Closed issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/zoom/pull/5) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
+2. 🗣 Commented on [#12](https://github.com/Zaid-maker/nitro-generator/pull/12#issuecomment-2034566968) in [Zaid-maker/nitro-generator](https://github.com/Zaid-maker/nitro-generator)
+3. 🎉 Merged PR [#17](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/17) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
 4. ❗ Opened issue [#487](https://github.com/Zaid-maker/status-page-advanced/issues/487) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
