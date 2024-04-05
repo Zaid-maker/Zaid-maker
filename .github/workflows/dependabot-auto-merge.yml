@@ -15,7 +15,7 @@ jobs:
     # Run this job on Ubuntu
     runs-on: ubuntu-latest
     # Only run if the actor is Dependabot
-    if: ${{ github.actor == 'dependabot[bot]' }}
+    if: ${{ github.actor == 'dependabot' }}
     steps:
       # Fetch metadata about the PR
       - name: Dependabot metadata
