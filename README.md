@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#415](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/415) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-2. 🗣 Commented on [#4652](https://github.com/louislam/uptime-kuma/pull/4652#issuecomment-2039959356) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. ❌ Closed PR [#3](https://github.com/Zaid-maker/react-19-playground/pull/3) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
-4. 🎉 Merged PR [#1](https://github.com/Zaid-maker/react-19-playground/pull/1) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+1. ❌ Closed PR [#448](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/448) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+2. ❌ Closed PR [#447](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/447) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. ❌ Closed PR [#439](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/439) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+4. ❌ Closed PR [#441](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/441) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
 <!--END_SECTION:activity-->
 </details>
 
