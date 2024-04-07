@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64151](https://github.com/vercel/next.js/pull/64151#issuecomment-2041502582) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#64081](https://github.com/vercel/next.js/pull/64081#issuecomment-2041359304) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#64151](https://github.com/vercel/next.js/pull/64151#issuecomment-2041241186) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#64151](https://github.com/vercel/next.js/pull/64151#issuecomment-2041233371) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#27879](https://github.com/facebook/react/issues/27879#issuecomment-2041609149) in [facebook/react](https://github.com/facebook/react)
+2. 🗣 Commented on [#64151](https://github.com/vercel/next.js/pull/64151#issuecomment-2041502582) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#64081](https://github.com/vercel/next.js/pull/64081#issuecomment-2041359304) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#64151](https://github.com/vercel/next.js/pull/64151#issuecomment-2041241186) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 </details>
 
