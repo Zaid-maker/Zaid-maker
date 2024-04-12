@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
-2. 💪 Opened PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
-3. 🗣 Commented on [#4666](https://github.com/louislam/uptime-kuma/pull/4666#issuecomment-2048331767) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 💪 Opened PR [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
+3. 💪 Opened PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
+4. 🗣 Commented on [#4666](https://github.com/louislam/uptime-kuma/pull/4666#issuecomment-2048331767) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
