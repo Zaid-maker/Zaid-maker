@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
-3. 💪 Opened PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
-4. 🗣 Commented on [#4666](https://github.com/louislam/uptime-kuma/pull/4666#issuecomment-2048331767) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2053581406) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+2. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
+4. 💪 Opened PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
 <!--END_SECTION:activity-->
 </details>
 
