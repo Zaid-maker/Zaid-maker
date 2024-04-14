@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/cperryoh/HomeAssitant-Rainmeter/pull/3#issuecomment-2053964457) in [cperryoh/HomeAssitant-Rainmeter](https://github.com/cperryoh/HomeAssitant-Rainmeter)
-2. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2053581406) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-3. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-4. 💪 Opened PR [#6](https://github.com/Zaid-maker/zoom/pull/6) in [Zaid-maker/zoom](https://github.com/Zaid-maker/zoom)
+1. 💪 Opened PR [#99](https://github.com/Zaid-maker/uptime-kuma/pull/99) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. 🗣 Commented on [#3](https://github.com/cperryoh/HomeAssitant-Rainmeter/pull/3#issuecomment-2053964457) in [cperryoh/HomeAssitant-Rainmeter](https://github.com/cperryoh/HomeAssitant-Rainmeter)
+3. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2053581406) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+4. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
 <!--END_SECTION:activity-->
 </details>
 
