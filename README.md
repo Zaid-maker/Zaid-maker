@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/Zaid-maker/uptime-kuma/pull/99) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🗣 Commented on [#3](https://github.com/cperryoh/HomeAssitant-Rainmeter/pull/3#issuecomment-2053964457) in [cperryoh/HomeAssitant-Rainmeter](https://github.com/cperryoh/HomeAssitant-Rainmeter)
-3. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2053581406) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-4. 🗣 Commented on [#2](https://github.com/devmirza-bot/frameworks-benchmark/issues/2#issuecomment-2051093756) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+1. 🗣 Commented on [#492](https://github.com/Zaid-maker/status-page-advanced/issues/492#issuecomment-2057136515) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#492](https://github.com/Zaid-maker/status-page-advanced/issues/492) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#492](https://github.com/Zaid-maker/status-page-advanced/issues/492) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#99](https://github.com/Zaid-maker/uptime-kuma/pull/99) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
