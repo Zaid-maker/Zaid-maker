@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/d594dc95-07a5-471b-a3e1-8d5fea65bed3.svg)](https://wakatime.com/@d594dc95-07a5-471b-a3e1-8d5fea65bed3) ![status](https://api.statusbadges.me/badge/status/414075055023063040?simple=true&style=flat-square) ![playing](https://api.statusbadges.me/badge/playing/414075055023063040) ![vscode](https://api.statusbadges.me/badge/vscode/414075055023063040?style=flat-square)
 
 <div align="center">
-    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm DevMirza</h1>
+    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif">, I'm DevMirza</h1>
     <h4 align="center">A Full-stack developer who codes Sh$t Stuffs!</h4>
 </div>
 
