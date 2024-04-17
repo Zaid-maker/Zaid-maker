@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. ❗ Opened issue [#493](https://github.com/Zaid-maker/status-page-advanced/issues/493) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🎉 Merged PR [#21](https://github.com/Zaid-maker/code-server/pull/21) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-3. ❗ Opened issue [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-4. 🗣 Commented on [#28843](https://github.com/facebook/react/pull/28843#issuecomment-2057477890) in [facebook/react](https://github.com/facebook/react)
+1. 🗣 Commented on [#493](https://github.com/Zaid-maker/status-page-advanced/issues/493#issuecomment-2061249505) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#493](https://github.com/Zaid-maker/status-page-advanced/issues/493) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#493](https://github.com/Zaid-maker/status-page-advanced/issues/493) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#21](https://github.com/Zaid-maker/code-server/pull/21) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
 <!--END_SECTION:activity-->
 </details>
 
