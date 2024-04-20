@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-2. 💪 Opened PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-3. 🗣 Commented on [#4692](https://github.com/louislam/uptime-kuma/pull/4692#issuecomment-2065687983) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 🗣 Commented on [#3](https://github.com/devmirza-bot/frameworks-benchmark/pull/3#issuecomment-2064602063) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+1. 🗣 Commented on [#28865](https://github.com/facebook/react/pull/28865#issuecomment-2067701757) in [facebook/react](https://github.com/facebook/react)
+2. 🎉 Merged PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+3. 💪 Opened PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+4. 🗣 Commented on [#4692](https://github.com/louislam/uptime-kuma/pull/4692#issuecomment-2065687983) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
