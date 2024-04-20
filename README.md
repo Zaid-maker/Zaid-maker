@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/devmirza-bot/frameworks-benchmark/pull/5) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-2. 🗣 Commented on [#28865](https://github.com/facebook/react/pull/28865#issuecomment-2067701757) in [facebook/react](https://github.com/facebook/react)
-3. 🎉 Merged PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-4. 💪 Opened PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+1. 🎉 Merged PR [#5](https://github.com/devmirza-bot/frameworks-benchmark/pull/5) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+2. 💪 Opened PR [#5](https://github.com/devmirza-bot/frameworks-benchmark/pull/5) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+3. 🗣 Commented on [#28865](https://github.com/facebook/react/pull/28865#issuecomment-2067701757) in [facebook/react](https://github.com/facebook/react)
+4. 🎉 Merged PR [#4](https://github.com/devmirza-bot/frameworks-benchmark/pull/4) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
 <!--END_SECTION:activity-->
 </details>
 
