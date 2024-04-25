@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509#issuecomment-2076063419) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🎉 Merged PR [#5](https://github.com/devmirza-bot/frameworks-benchmark/pull/5) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+1. 💪 Opened PR [#102](https://github.com/Zaid-maker/uptime-kuma/pull/102) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. 🗣 Commented on [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509#issuecomment-2076063419) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#509](https://github.com/Zaid-maker/status-page-advanced/issues/509) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 </details>
 
