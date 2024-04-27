@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/Zaid-maker/uptime-kuma/pull/104) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 💪 Opened PR [#104](https://github.com/Zaid-maker/uptime-kuma/pull/104) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-3. 🗣 Commented on [#34](https://github.com/Cyclone-Bot-List/uptime/issues/34#issuecomment-2079993822) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 🔒 Closed issue [#34](https://github.com/Cyclone-Bot-List/uptime/issues/34) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🗣 Commented on [#28875](https://github.com/facebook/react/pull/28875#issuecomment-2080404980) in [facebook/react](https://github.com/facebook/react)
+2. ❌ Closed PR [#105](https://github.com/Zaid-maker/uptime-kuma/pull/105) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. 💪 Opened PR [#105](https://github.com/Zaid-maker/uptime-kuma/pull/105) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+4. 🎉 Merged PR [#104](https://github.com/Zaid-maker/uptime-kuma/pull/104) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
