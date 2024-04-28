@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Zaid-maker/react/pull/9#issuecomment-2081589216) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-2. 🗣 Commented on [#9](https://github.com/Zaid-maker/react/pull/9#issuecomment-2081589088) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-3. 💪 Opened PR [#28936](https://github.com/facebook/react/pull/28936) in [facebook/react](https://github.com/facebook/react)
-4. 🗣 Commented on [#28875](https://github.com/facebook/react/pull/28875#issuecomment-2080404980) in [facebook/react](https://github.com/facebook/react)
+1. ❌ Closed PR [#90](https://github.com/Zaid-maker/uptime-kuma/pull/90) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. ❌ Closed PR [#102](https://github.com/Zaid-maker/uptime-kuma/pull/102) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. 🎉 Merged PR [#103](https://github.com/Zaid-maker/uptime-kuma/pull/103) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+4. 🗣 Commented on [#103](https://github.com/Zaid-maker/uptime-kuma/pull/103#issuecomment-2081593385) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 </details>
 
