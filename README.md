@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
-2. 🎉 Merged PR [#9](https://github.com/Zaid-maker/react/pull/9) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-3. 🗣 Commented on [#28949](https://github.com/facebook/react/pull/28949#issuecomment-2082384591) in [facebook/react](https://github.com/facebook/react)
-4. 🗣 Commented on [#28945](https://github.com/facebook/react/pull/28945#issuecomment-2082191470) in [facebook/react](https://github.com/facebook/react)
+1. ❌ Closed PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
+2. 💪 Opened PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
+3. 🎉 Merged PR [#9](https://github.com/Zaid-maker/react/pull/9) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+4. 🗣 Commented on [#28949](https://github.com/facebook/react/pull/28949#issuecomment-2082384591) in [facebook/react](https://github.com/facebook/react)
 <!--END_SECTION:activity-->
 </details>
 
