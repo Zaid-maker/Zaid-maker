@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28936](https://github.com/facebook/react/pull/28936#issuecomment-2084722331) in [facebook/react](https://github.com/facebook/react)
-2. ❌ Closed PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
-3. 💪 Opened PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
-4. 🎉 Merged PR [#9](https://github.com/Zaid-maker/react/pull/9) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+1. ❗ Opened issue [#35](https://github.com/Cyclone-Bot-List/uptime/issues/35) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🗣 Commented on [#28936](https://github.com/facebook/react/pull/28936#issuecomment-2084722331) in [facebook/react](https://github.com/facebook/react)
+3. ❌ Closed PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
+4. 💪 Opened PR [#28953](https://github.com/facebook/react/pull/28953) in [facebook/react](https://github.com/facebook/react)
 <!--END_SECTION:activity-->
 </details>
 
