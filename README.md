@@ -9,7 +9,7 @@
 
 <div align="center">
     <a href="https://www.devmirza.ml">
-        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
 
