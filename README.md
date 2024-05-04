@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Zaid-maker/Zaid-maker/pull/15) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-2. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2094342560) in [vercel/turbo](https://github.com/vercel/turbo)
-3. 💪 Opened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
-4. ❌ Closed PR [#1](https://github.com/Zaid-maker/my-blog-nextjs/pull/1) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
+1. 🗣 Commented on [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17#issuecomment-2094398932) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
+2. 🔒 Closed issue [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
+3. 🎉 Merged PR [#15](https://github.com/Zaid-maker/Zaid-maker/pull/15) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
+4. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2094342560) in [vercel/turbo](https://github.com/vercel/turbo)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
