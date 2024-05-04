@@ -32,10 +32,10 @@
     <br />
     <h1>Recent Activity</h1>
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
-2. ❌ Closed PR [#1](https://github.com/Zaid-maker/my-blog-nextjs/pull/1) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
-3. ❌ Closed PR [#3](https://github.com/Zaid-maker/my-blog-nextjs/pull/3) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
-4. 🎉 Merged PR [#11](https://github.com/Zaid-maker/react-19-playground/pull/11) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+1. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2094342560) in [vercel/turbo](https://github.com/vercel/turbo)
+2. 💪 Opened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
+3. ❌ Closed PR [#1](https://github.com/Zaid-maker/my-blog-nextjs/pull/1) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
+4. ❌ Closed PR [#3](https://github.com/Zaid-maker/my-blog-nextjs/pull/3) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
 <!--END_SECTION:activity-->
 </details>
 
