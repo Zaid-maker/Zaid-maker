@@ -17,3 +17,4 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
+          LANG_COUNT: 10
