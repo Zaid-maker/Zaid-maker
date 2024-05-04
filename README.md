@@ -22,7 +22,7 @@
 4. ❌ Closed PR [#1](https://github.com/Zaid-maker/my-blog-nextjs/pull/1) in [Zaid-maker/my-blog-nextjs](https://github.com/Zaid-maker/my-blog-nextjs)
 <!--END_SECTION:activity-->
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: Coding time in the last month
 
 <!--START_SECTION:waka-->
 
