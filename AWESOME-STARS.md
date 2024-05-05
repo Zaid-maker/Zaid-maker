@@ -80,6 +80,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
@@ -1143,7 +1144,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [adamchalmers/dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer speedy bootstrapping, dynamic scaling, time-travel queries, and efficient joins.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [Milo123459/scrooge](https://github.com/Milo123459/scrooge) - 😎 Run scripts in the command line automatically. No more copy pasting, just scrooge run!
 - [Milo123459/glitter](https://github.com/Milo123459/glitter) - 🌌⭐ Git tooling of the future.
@@ -1214,6 +1215,7 @@
 
 ## TypeScript 
 
+- [npalm/action-docs](https://github.com/npalm/action-docs) - Generate docs for GitHub actions
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
