@@ -385,6 +385,9 @@
 
 ## JavaScript 
 
+- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
+- [donmccurdy/three-to-cannon](https://github.com/donmccurdy/three-to-cannon) - Convert a THREE.Mesh to a CANNON.Shape.
+- [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
 - [adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio) - The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
 - [devmirza-bot/package-manager-benchmark](https://github.com/devmirza-bot/package-manager-benchmark) - 
 - [EddieHubCommunity/RepoRater](https://github.com/EddieHubCommunity/RepoRater) - Rate GitHub Repos for Developer Experience (DX)
@@ -798,6 +801,7 @@
 
 ## Jupyter Notebook 
 
+- [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [github/codespaces-jupyter](https://github.com/github/codespaces-jupyter) - Explore machine learning and data science with Codespaces
@@ -1006,7 +1010,7 @@
 - [Zerka30/KumaCompanion](https://github.com/Zerka30/KumaCompanion) - KumaCompanion is a CLI to manage uptime-kuma
 - [github/contributors](https://github.com/github/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
-- [darrenburns/elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+- [darrenburns/elia](https://github.com/darrenburns/elia) - Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more from a powerful terminal user interface.
 - [WeblateOrg/translation-finder](https://github.com/WeblateOrg/translation-finder) - Translation files finder
 - [Peppershade/uptimekuma-migrator](https://github.com/Peppershade/uptimekuma-migrator) - Simple migrator from UptimeRobot to UptimeKuma
 - [198808xc/Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
@@ -1215,6 +1219,8 @@
 
 ## TypeScript 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [FunTechInc/use-shader-fx](https://github.com/FunTechInc/use-shader-fx) - ⚡️ More FXs, Less GLSL
 - [npalm/action-docs](https://github.com/npalm/action-docs) - Generate docs for GitHub actions
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
