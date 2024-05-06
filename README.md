@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17#issuecomment-2094398932) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-2. 🔒 Closed issue [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-3. 🎉 Merged PR [#15](https://github.com/Zaid-maker/Zaid-maker/pull/15) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-4. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2094342560) in [vercel/turbo](https://github.com/vercel/turbo)
+1. 🗣 Commented on [#510](https://github.com/Zaid-maker/status-page-advanced/issues/510#issuecomment-2095397403) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#510](https://github.com/Zaid-maker/status-page-advanced/issues/510) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#510](https://github.com/Zaid-maker/status-page-advanced/issues/510) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#17](https://github.com/Zaid-maker/Zaid-maker/issues/17#issuecomment-2094398932) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
