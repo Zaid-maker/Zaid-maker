@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#514](https://github.com/Zaid-maker/status-page-advanced/issues/514) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#8103](https://github.com/vercel/turbo/pull/8103#issuecomment-2099037725) in [vercel/turbo](https://github.com/vercel/turbo)
-3. ❌ Closed PR [#8103](https://github.com/vercel/turbo/pull/8103) in [vercel/turbo](https://github.com/vercel/turbo)
-4. 🔒 Closed issue [#513](https://github.com/Zaid-maker/status-page-advanced/issues/513) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🔒 Closed issue [#514](https://github.com/Zaid-maker/status-page-advanced/issues/514) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#514](https://github.com/Zaid-maker/status-page-advanced/issues/514#issuecomment-2099403380) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#514](https://github.com/Zaid-maker/status-page-advanced/issues/514) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#8103](https://github.com/vercel/turbo/pull/8103#issuecomment-2099037725) in [vercel/turbo](https://github.com/vercel/turbo)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
