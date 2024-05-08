@@ -979,6 +979,7 @@
 
 ## Python 
 
+- [IQAndreas/github-issues-import](https://github.com/IQAndreas/github-issues-import) - Python script to import issues from one repository into another, either one at a time or all of them at once.
 - [facebookresearch/FnCTOD](https://github.com/facebookresearch/FnCTOD) - Official code for the publication "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling" https//arxiv.org/abs/2402.10466
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [adamjezek98/ubnt-etherlighting](https://github.com/adamjezek98/ubnt-etherlighting) - 
