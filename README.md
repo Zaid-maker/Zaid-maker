@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/Zaid-maker/react/issues/30) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-2. 🔒 Closed issue [#24](https://github.com/Zaid-maker/react/issues/24) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-3. 🔒 Closed issue [#29](https://github.com/Zaid-maker/react/issues/29) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-4. 🔒 Closed issue [#28](https://github.com/Zaid-maker/react/issues/28) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+1. ❗ Opened issue [#63](https://github.com/Zaid-maker/react/issues/63) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+2. ❗ Opened issue [#62](https://github.com/Zaid-maker/react/issues/62) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+3. ❗ Opened issue [#61](https://github.com/Zaid-maker/react/issues/61) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+4. ❗ Opened issue [#60](https://github.com/Zaid-maker/react/issues/60) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
