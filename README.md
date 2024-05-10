@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
-2. ❗ Opened issue [#63](https://github.com/Zaid-maker/react/issues/63) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-3. ❗ Opened issue [#62](https://github.com/Zaid-maker/react/issues/62) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-4. ❗ Opened issue [#61](https://github.com/Zaid-maker/react/issues/61) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
+1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/fuels-ts/pull/1) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
+2. 🚀 Published release [v0.86.0](https://github.com/Zaid-maker/fuels-ts/releases/tag/v0.86.0) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
+3. ❌ Reopened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
+4. ❗ Opened issue [#63](https://github.com/Zaid-maker/react/issues/63) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
