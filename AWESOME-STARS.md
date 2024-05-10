@@ -984,6 +984,7 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [IQAndreas/github-issues-import](https://github.com/IQAndreas/github-issues-import) - Python script to import issues from one repository into another, either one at a time or all of them at once.
 - [facebookresearch/FnCTOD](https://github.com/facebookresearch/FnCTOD) - Official code for the publication "Large Language Models as Zero-shot Dialogue State Tracker through Function Calling" https//arxiv.org/abs/2402.10466
@@ -1227,6 +1228,7 @@
 
 ## TypeScript 
 
+- [Zaid-maker/finance](https://github.com/Zaid-maker/finance) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [FunTechInc/use-shader-fx](https://github.com/FunTechInc/use-shader-fx) - ⚡️ More FXs, Less GLSL
 - [npalm/action-docs](https://github.com/npalm/action-docs) - Generate docs for GitHub actions
