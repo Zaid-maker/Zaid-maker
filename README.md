@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105279460) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/fuels-ts/pull/1) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
-3. 🚀 Published release [v0.86.0](https://github.com/Zaid-maker/fuels-ts/releases/tag/v0.86.0) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
-4. ❌ Reopened PR [#8090](https://github.com/vercel/turbo/pull/8090) in [vercel/turbo](https://github.com/vercel/turbo)
+1. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105460794) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105279460) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/fuels-ts/pull/1) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
+4. 🚀 Published release [v0.86.0](https://github.com/Zaid-maker/fuels-ts/releases/tag/v0.86.0) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
