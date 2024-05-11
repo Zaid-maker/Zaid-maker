@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/devmirza-bot/frameworks-benchmark/issues/7) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-2. ❗ Opened issue [#6](https://github.com/devmirza-bot/frameworks-benchmark/issues/6) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-3. 🗣 Commented on [#4751](https://github.com/louislam/uptime-kuma/pull/4751#issuecomment-2105900129) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. ❌ Closed PR [#1](https://github.com/Zaid-maker/next.js/pull/1) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
+1. ❗ Opened issue [#515](https://github.com/Zaid-maker/status-page-advanced/issues/515) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#7](https://github.com/devmirza-bot/frameworks-benchmark/issues/7) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+3. ❗ Opened issue [#6](https://github.com/devmirza-bot/frameworks-benchmark/issues/6) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+4. 🗣 Commented on [#4751](https://github.com/louislam/uptime-kuma/pull/4751#issuecomment-2105900129) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
