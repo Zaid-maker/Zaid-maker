@@ -19,10 +19,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105460794) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105279460) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/fuels-ts/pull/1) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
-4. 🚀 Published release [v0.86.0](https://github.com/Zaid-maker/fuels-ts/releases/tag/v0.86.0) in [Zaid-maker/fuels-ts](https://github.com/Zaid-maker/fuels-ts)
+1. 🎉 Merged PR [#465](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/465) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+2. ❌ Closed PR [#460](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/460) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. ❌ Closed PR [#466](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/466) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+4. 🗣 Commented on [#96](https://github.com/Zaid-maker/uptime-kuma/pull/96#issuecomment-2105460794) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
