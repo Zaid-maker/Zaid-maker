@@ -19,10 +19,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Zaid-maker/next.js/pull/1) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
-2. 🎉 Merged PR [#465](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/465) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-3. ❌ Closed PR [#460](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/460) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-4. ❌ Closed PR [#466](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/466) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+1. 🗣 Commented on [#4751](https://github.com/louislam/uptime-kuma/pull/4751#issuecomment-2105900129) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. ❌ Closed PR [#1](https://github.com/Zaid-maker/next.js/pull/1) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
+3. 🎉 Merged PR [#465](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/465) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+4. ❌ Closed PR [#460](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/460) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
