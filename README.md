@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8126](https://github.com/vercel/turbo/pull/8126#issuecomment-2106336456) in [vercel/turbo](https://github.com/vercel/turbo)
-2. 🔒 Closed issue [#6](https://github.com/devmirza-bot/frameworks-benchmark/issues/6) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-3. 🎉 Merged PR [#9](https://github.com/devmirza-bot/frameworks-benchmark/pull/9) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
-4. 💪 Opened PR [#9](https://github.com/devmirza-bot/frameworks-benchmark/pull/9) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+1. ❌ Closed PR [#1](https://github.com/Zaid-maker/turbo/pull/1) in [Zaid-maker/turbo](https://github.com/Zaid-maker/turbo)
+2. 🗣 Commented on [#8126](https://github.com/vercel/turbo/pull/8126#issuecomment-2106336456) in [vercel/turbo](https://github.com/vercel/turbo)
+3. 🔒 Closed issue [#6](https://github.com/devmirza-bot/frameworks-benchmark/issues/6) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
+4. 🎉 Merged PR [#9](https://github.com/devmirza-bot/frameworks-benchmark/pull/9) in [devmirza-bot/frameworks-benchmark](https://github.com/devmirza-bot/frameworks-benchmark)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
