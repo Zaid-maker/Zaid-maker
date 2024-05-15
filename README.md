@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Zaid-maker/books/issues/1#issuecomment-2111846736) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
-2. 🎉 Merged PR [#4](https://github.com/Zaid-maker/books/pull/4) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
-3. 🗣 Commented on [#3](https://github.com/Zaid-maker/books/issues/3#issuecomment-2111831708) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
-4. ❌ Closed PR [#106](https://github.com/Zaid-maker/uptime-kuma/pull/106) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1. 🗣 Commented on [#29061](https://github.com/facebook/react/pull/29061#issuecomment-2113206376) in [facebook/react](https://github.com/facebook/react)
+2. 🗣 Commented on [#1](https://github.com/Zaid-maker/books/issues/1#issuecomment-2111846736) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+3. 🎉 Merged PR [#4](https://github.com/Zaid-maker/books/pull/4) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+4. 🗣 Commented on [#3](https://github.com/Zaid-maker/books/issues/3#issuecomment-2111831708) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
