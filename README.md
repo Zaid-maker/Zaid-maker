@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29109](https://github.com/facebook/react/pull/29109) in [facebook/react](https://github.com/facebook/react)
-2. 🗣 Commented on [#29061](https://github.com/facebook/react/pull/29061#issuecomment-2115758501) in [facebook/react](https://github.com/facebook/react)
-3. 🗣 Commented on [#516](https://github.com/Zaid-maker/status-page-advanced/issues/516#issuecomment-2113594726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#516](https://github.com/Zaid-maker/status-page-advanced/issues/516) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#508](https://github.com/Zaid-maker/status-page-advanced/issues/508#issuecomment-2117031378) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#508](https://github.com/Zaid-maker/status-page-advanced/issues/508) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 💪 Opened PR [#29109](https://github.com/facebook/react/pull/29109) in [facebook/react](https://github.com/facebook/react)
+4. 🗣 Commented on [#29061](https://github.com/facebook/react/pull/29061#issuecomment-2115758501) in [facebook/react](https://github.com/facebook/react)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
