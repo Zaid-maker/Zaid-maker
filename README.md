@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#508](https://github.com/Zaid-maker/status-page-advanced/issues/508#issuecomment-2117031378) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#508](https://github.com/Zaid-maker/status-page-advanced/issues/508) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 💪 Opened PR [#29109](https://github.com/facebook/react/pull/29109) in [facebook/react](https://github.com/facebook/react)
-4. 🗣 Commented on [#29061](https://github.com/facebook/react/pull/29061#issuecomment-2115758501) in [facebook/react](https://github.com/facebook/react)
+1. ❗ Opened issue [#8](https://github.com/Zaid-maker/books/issues/8) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/books/pull/6) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+3. 🔒 Closed issue [#1](https://github.com/Zaid-maker/books/issues/1) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+4. ❗ Opened issue [#7](https://github.com/Zaid-maker/books/issues/7) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
