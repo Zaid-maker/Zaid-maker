@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/finance/pull/1) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/finance/pull/1) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-3. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2118844498) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-4. 💪 Opened PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/repos/pull/6) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+2. 🗣 Commented on [#6](https://github.com/Zaid-maker/repos/pull/6#issuecomment-2119001217) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+3. 🎉 Merged PR [#5](https://github.com/Zaid-maker/repos/pull/5) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+4. ❌ Closed PR [#4](https://github.com/Zaid-maker/repos/pull/4) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
