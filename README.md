@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2118844498) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-2. 💪 Opened PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-3. 🔒 Closed issue [#2](https://github.com/Zaid-maker/pterodactyl-eggs/issues/2) in [Zaid-maker/pterodactyl-eggs](https://github.com/Zaid-maker/pterodactyl-eggs)
-4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/react-19-playground/pull/2) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/finance/pull/1) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+2. 💪 Opened PR [#1](https://github.com/Zaid-maker/finance/pull/1) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+3. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2118844498) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+4. 💪 Opened PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
