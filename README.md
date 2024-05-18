@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.1.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
-2. 💪 Opened PR [#4089](https://github.com/tc39/test262/pull/4089) in [tc39/test262](https://github.com/tc39/test262)
-3. 🎉 Merged PR [#10](https://github.com/Zaid-maker/status-page/pull/10) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-4. 💪 Opened PR [#4](https://github.com/abizek/stopwatch/pull/4) in [abizek/stopwatch](https://github.com/abizek/stopwatch)
+1. 🔒 Closed issue [#2](https://github.com/Zaid-maker/pterodactyl-eggs/issues/2) in [Zaid-maker/pterodactyl-eggs](https://github.com/Zaid-maker/pterodactyl-eggs)
+2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/react-19-playground/pull/2) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+3. 🚀 Published release [v1.1.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.1.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
+4. 💪 Opened PR [#4089](https://github.com/tc39/test262/pull/4089) in [tc39/test262](https://github.com/tc39/test262)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
