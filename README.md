@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/repos/pull/6) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-2. 🗣 Commented on [#6](https://github.com/Zaid-maker/repos/pull/6#issuecomment-2119001217) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-3. 🎉 Merged PR [#5](https://github.com/Zaid-maker/repos/pull/5) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-4. ❌ Closed PR [#4](https://github.com/Zaid-maker/repos/pull/4) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+1. ❌ Closed PR [#10](https://github.com/Zaid-maker/repos/pull/10) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+2. 🗣 Commented on [#8138](https://github.com/vercel/turbo/pull/8138#issuecomment-2119006608) in [vercel/turbo](https://github.com/vercel/turbo)
+3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/repos/pull/6) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+4. 🗣 Commented on [#6](https://github.com/Zaid-maker/repos/pull/6#issuecomment-2119001217) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
