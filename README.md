@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/abizek/stopwatch/pull/4) in [abizek/stopwatch](https://github.com/abizek/stopwatch)
-2. ❗ Opened issue [#8](https://github.com/Zaid-maker/books/issues/8) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
-3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/books/pull/6) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
-4. 🔒 Closed issue [#1](https://github.com/Zaid-maker/books/issues/1) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+1. 🎉 Merged PR [#10](https://github.com/Zaid-maker/status-page/pull/10) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
+2. 💪 Opened PR [#4](https://github.com/abizek/stopwatch/pull/4) in [abizek/stopwatch](https://github.com/abizek/stopwatch)
+3. ❗ Opened issue [#8](https://github.com/Zaid-maker/books/issues/8) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/books/pull/6) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
