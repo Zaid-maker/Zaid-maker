@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#647](https://github.com/copy/v86/pull/647#issuecomment-2119216653) in [copy/v86](https://github.com/copy/v86)
-2. ❌ Closed PR [#10](https://github.com/Zaid-maker/repos/pull/10) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-3. 🗣 Commented on [#8138](https://github.com/vercel/turbo/pull/8138#issuecomment-2119006608) in [vercel/turbo](https://github.com/vercel/turbo)
-4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/repos/pull/6) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+1. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2119329824) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2119327767) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2119326457) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2119325952) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
