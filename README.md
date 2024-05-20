@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2120482810) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-2. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2120480905) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-3. 💪 Opened PR [#29171](https://github.com/facebook/react/pull/29171) in [facebook/react](https://github.com/facebook/react)
-4. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2120117695) in [tc39/test262](https://github.com/tc39/test262)
+1. 🗣 Commented on [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93#issuecomment-2121014534) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. ❌ Reopened PR [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2120482810) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+4. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2120480905) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
