@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2122713831) in [vercel/turbo](https://github.com/vercel/turbo)
-2. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2122576529) in [vercel/turbo](https://github.com/vercel/turbo)
-3. 🗣 Commented on [#8](https://github.com/peter-evans/slash-command-dispatch/pull/8#issuecomment-2122518600) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
-4. 🗣 Commented on [#83](https://github.com/DevMirza-Blog/status/issues/83#issuecomment-2122506896) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. ❌ Closed PR [#2](https://github.com/Zaid-maker/finance/pull/2) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/finance/pull/2) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+3. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2122713831) in [vercel/turbo](https://github.com/vercel/turbo)
+4. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2122576529) in [vercel/turbo](https://github.com/vercel/turbo)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
