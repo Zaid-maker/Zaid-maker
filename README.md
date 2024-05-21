@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/DevMirza-Blog/status/issues/83) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. ❗ Opened issue [#82](https://github.com/DevMirza-Blog/status/issues/82) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2121758430) in [tc39/test262](https://github.com/tc39/test262)
-4. 🗣 Commented on [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93#issuecomment-2121014534) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1. 🗣 Commented on [#8](https://github.com/peter-evans/slash-command-dispatch/pull/8#issuecomment-2122518600) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+2. 🗣 Commented on [#83](https://github.com/DevMirza-Blog/status/issues/83#issuecomment-2122506896) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 🔒 Closed issue [#83](https://github.com/DevMirza-Blog/status/issues/83) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#82](https://github.com/DevMirza-Blog/status/issues/82) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
