@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/peter-evans/slash-command-dispatch/pull/8#issuecomment-2122518600) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
-2. 🗣 Commented on [#83](https://github.com/DevMirza-Blog/status/issues/83#issuecomment-2122506896) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🔒 Closed issue [#83](https://github.com/DevMirza-Blog/status/issues/83) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#82](https://github.com/DevMirza-Blog/status/issues/82) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2122576529) in [vercel/turbo](https://github.com/vercel/turbo)
+2. 🗣 Commented on [#8](https://github.com/peter-evans/slash-command-dispatch/pull/8#issuecomment-2122518600) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+3. 🗣 Commented on [#83](https://github.com/DevMirza-Blog/status/issues/83#issuecomment-2122506896) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#83](https://github.com/DevMirza-Blog/status/issues/83) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
