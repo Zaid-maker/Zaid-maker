@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2121758430) in [tc39/test262](https://github.com/tc39/test262)
-2. 🗣 Commented on [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93#issuecomment-2121014534) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-3. ❌ Reopened PR [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-4. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2120482810) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+1. ❗ Opened issue [#83](https://github.com/DevMirza-Blog/status/issues/83) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. ❗ Opened issue [#82](https://github.com/DevMirza-Blog/status/issues/82) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2121758430) in [tc39/test262](https://github.com/tc39/test262)
+4. 🗣 Commented on [#93](https://github.com/Zaid-maker/uptime-kuma/pull/93#issuecomment-2121014534) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
