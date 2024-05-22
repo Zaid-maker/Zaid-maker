@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2123115829) in [tc39/test262](https://github.com/tc39/test262)
-2. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2123080409) in [vercel/turbo](https://github.com/vercel/turbo)
-3. ❌ Closed PR [#2](https://github.com/Zaid-maker/finance/pull/2) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-4. 💪 Opened PR [#2](https://github.com/Zaid-maker/finance/pull/2) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+1. ❌ Closed PR [#29171](https://github.com/facebook/react/pull/29171) in [facebook/react](https://github.com/facebook/react)
+2. 🗣 Commented on [#4089](https://github.com/tc39/test262/pull/4089#issuecomment-2123115829) in [tc39/test262](https://github.com/tc39/test262)
+3. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2123080409) in [vercel/turbo](https://github.com/vercel/turbo)
+4. ❌ Closed PR [#2](https://github.com/Zaid-maker/finance/pull/2) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
