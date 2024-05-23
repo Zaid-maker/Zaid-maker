@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/chrome-extension/pull/1) in [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension)
-2. 🎉 Merged PR [#14](https://github.com/Zaid-maker/react-19-playground/pull/14) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
-3. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2124945381) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 🎉 Merged PR [#3](https://github.com/Zaid-maker/finance/pull/3) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+1. ❌ Closed PR [#8](https://github.com/Zaid-maker/finance/pull/8) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/chrome-extension/pull/1) in [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension)
+3. 🎉 Merged PR [#14](https://github.com/Zaid-maker/react-19-playground/pull/14) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+4. 🗣 Commented on [#4694](https://github.com/louislam/uptime-kuma/pull/4694#issuecomment-2124945381) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
