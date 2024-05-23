@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/peter-evans/slash-command-dispatch/pull/28#issuecomment-2126454105) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
-2. ❌ Closed PR [#8](https://github.com/Zaid-maker/finance/pull/8) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/chrome-extension/pull/1) in [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension)
-4. 🎉 Merged PR [#14](https://github.com/Zaid-maker/react-19-playground/pull/14) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+1. 🗣 Commented on [#4616](https://github.com/louislam/uptime-kuma/pull/4616#issuecomment-2127206995) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#28](https://github.com/peter-evans/slash-command-dispatch/pull/28#issuecomment-2126454105) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+3. ❌ Closed PR [#8](https://github.com/Zaid-maker/finance/pull/8) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+4. 🎉 Merged PR [#1](https://github.com/Zaid-maker/chrome-extension/pull/1) in [Zaid-maker/chrome-extension](https://github.com/Zaid-maker/chrome-extension)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
