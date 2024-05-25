@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-2. ❌ Closed PR [#6](https://github.com/Zaid-maker/finance/pull/6) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-3. ❗ Opened issue [#517](https://github.com/Zaid-maker/status-page-advanced/issues/517) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2127640639) in [vercel/turbo](https://github.com/vercel/turbo)
+1. 🎉 Merged PR [#473](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/473) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+2. ❌ Closed PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+3. ❌ Closed PR [#6](https://github.com/Zaid-maker/finance/pull/6) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+4. ❗ Opened issue [#517](https://github.com/Zaid-maker/status-page-advanced/issues/517) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
