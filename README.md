@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#473](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/473) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-2. ❌ Closed PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-3. ❌ Closed PR [#6](https://github.com/Zaid-maker/finance/pull/6) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-4. ❗ Opened issue [#517](https://github.com/Zaid-maker/status-page-advanced/issues/517) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#10](https://github.com/Zaid-maker/my-top-views-counter/pull/10) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
+2. 🎉 Merged PR [#473](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/473) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. ❌ Closed PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+4. ❌ Closed PR [#6](https://github.com/Zaid-maker/finance/pull/6) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
