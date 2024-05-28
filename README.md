@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518#issuecomment-2134218698) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#1](https://github.com/bumb7ebee/weather-profile-actions/issues/1) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
+1. ❗ Opened issue [#519](https://github.com/Zaid-maker/status-page-advanced/issues/519) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518#issuecomment-2134218698) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#518](https://github.com/Zaid-maker/status-page-advanced/issues/518) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
