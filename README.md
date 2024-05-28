@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2135501463) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-2. ❌ Reopened PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
-3. 🗣 Commented on [#66](https://github.com/Zaid-maker/react/pull/66#issuecomment-2135440627) in [Zaid-maker/react](https://github.com/Zaid-maker/react)
-4. 🎉 Merged PR [#12](https://github.com/Zaid-maker/my-top-views-counter/pull/12) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
+1. 🔒 Closed issue [#519](https://github.com/Zaid-maker/status-page-advanced/issues/519) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#519](https://github.com/Zaid-maker/status-page-advanced/issues/519#issuecomment-2135639298) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#67](https://github.com/msgbyte/tianji/pull/67#issuecomment-2135501463) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
+4. ❌ Reopened PR [#67](https://github.com/msgbyte/tianji/pull/67) in [msgbyte/tianji](https://github.com/msgbyte/tianji)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
