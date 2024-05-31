@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Zaid-maker/repos/pull/22) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-2. 💪 Opened PR [#22](https://github.com/Zaid-maker/repos/pull/22) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-3. 💪 Opened PR [#21](https://github.com/Zaid-maker/repos/pull/21) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-4. 🗣 Commented on [#523](https://github.com/Zaid-maker/status-page-advanced/issues/523#issuecomment-2142663723) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#36](https://github.com/Cyclone-Bot-List/uptime/issues/36#issuecomment-2143101331) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🔒 Closed issue [#36](https://github.com/Cyclone-Bot-List/uptime/issues/36) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#36](https://github.com/Cyclone-Bot-List/uptime/issues/36) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🎉 Merged PR [#22](https://github.com/Zaid-maker/repos/pull/22) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
