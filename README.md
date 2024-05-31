@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Zaid-maker/my-top-views-counter/pull/13) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
-2. ❗ Opened issue [#522](https://github.com/Zaid-maker/status-page-advanced/issues/522) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🗣 Commented on [#1](https://github.com/bumb7ebee/weather-profile-actions/issues/1#issuecomment-2140202425) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
-4. 🗣 Commented on [#1](https://github.com/bumb7ebee/weather-profile-actions/issues/1#issuecomment-2140192687) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
+1. 🔒 Closed issue [#522](https://github.com/Zaid-maker/status-page-advanced/issues/522) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#522](https://github.com/Zaid-maker/status-page-advanced/issues/522#issuecomment-2142042874) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🎉 Merged PR [#13](https://github.com/Zaid-maker/my-top-views-counter/pull/13) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
+4. ❗ Opened issue [#522](https://github.com/Zaid-maker/status-page-advanced/issues/522) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
