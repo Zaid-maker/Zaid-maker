@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#524](https://github.com/Zaid-maker/status-page-advanced/issues/524) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🎉 Merged PR [#11](https://github.com/Zaid-maker/status-page/pull/11) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-3. 💪 Opened PR [#11](https://github.com/Zaid-maker/status-page/pull/11) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-4. 💪 Opened PR [#7](https://github.com/devmirza-bot/devmirza-bot/pull/7) in [devmirza-bot/devmirza-bot](https://github.com/devmirza-bot/devmirza-bot)
+1. 🗣 Commented on [#524](https://github.com/Zaid-maker/status-page-advanced/issues/524#issuecomment-2143907202) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#524](https://github.com/Zaid-maker/status-page-advanced/issues/524) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#524](https://github.com/Zaid-maker/status-page-advanced/issues/524) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#11](https://github.com/Zaid-maker/status-page/pull/11) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
