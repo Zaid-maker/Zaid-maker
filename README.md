@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#86](https://github.com/DevMirza-Blog/status/issues/86) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🎉 Merged PR [#14](https://github.com/Zaid-maker/my-top-views-counter/pull/14) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
-3. 🎉 Merged PR [#19](https://github.com/Zaid-maker/Zaid-maker/pull/19) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-4. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2145618100) in [vercel/turbo](https://github.com/vercel/turbo)
+1. 🗣 Commented on [#86](https://github.com/DevMirza-Blog/status/issues/86#issuecomment-2146366158) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🔒 Closed issue [#86](https://github.com/DevMirza-Blog/status/issues/86) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. ❗ Opened issue [#86](https://github.com/DevMirza-Blog/status/issues/86) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🎉 Merged PR [#14](https://github.com/Zaid-maker/my-top-views-counter/pull/14) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
