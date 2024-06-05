@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Zaid-maker/my-top-views-counter/pull/15) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
-2. 🗣 Commented on [#526](https://github.com/Zaid-maker/status-page-advanced/issues/526#issuecomment-2149787603) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#526](https://github.com/Zaid-maker/status-page-advanced/issues/526) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#526](https://github.com/Zaid-maker/status-page-advanced/issues/526) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#293](https://github.com/Zaid-maker/turborepo-monorepo/pull/293) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
+2. 💪 Opened PR [#292](https://github.com/Zaid-maker/turborepo-monorepo/pull/292) in [Zaid-maker/turborepo-monorepo](https://github.com/Zaid-maker/turborepo-monorepo)
+3. 🎉 Merged PR [#15](https://github.com/Zaid-maker/my-top-views-counter/pull/15) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
+4. 🗣 Commented on [#526](https://github.com/Zaid-maker/status-page-advanced/issues/526#issuecomment-2149787603) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
