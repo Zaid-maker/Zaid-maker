@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/Zaid-maker/status-page-advanced/issues/527#issuecomment-2154110501) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#527](https://github.com/Zaid-maker/status-page-advanced/issues/527) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#527](https://github.com/Zaid-maker/status-page-advanced/issues/527) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#525](https://github.com/Zaid-maker/status-page-advanced/issues/525#issuecomment-2153571082) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🔒 Closed issue [#19](https://github.com/AnandChowdhary/smol-github-workspace/issues/19) in [AnandChowdhary/smol-github-workspace](https://github.com/AnandChowdhary/smol-github-workspace)
+2. ❗ Opened issue [#19](https://github.com/AnandChowdhary/smol-github-workspace/issues/19) in [AnandChowdhary/smol-github-workspace](https://github.com/AnandChowdhary/smol-github-workspace)
+3. 🗣 Commented on [#527](https://github.com/Zaid-maker/status-page-advanced/issues/527#issuecomment-2154110501) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#527](https://github.com/Zaid-maker/status-page-advanced/issues/527) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
