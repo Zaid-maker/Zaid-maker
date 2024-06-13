@@ -17,9 +17,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Zaid-maker/uptime-kuma/pull/2) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/uptime-kuma/pull/1) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-3. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2159893380) in [vercel/turbo](https://github.com/vercel/turbo)
+1. ❗ Opened issue [#531](https://github.com/Zaid-maker/status-page-advanced/issues/531) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/uptime-kuma/pull/2) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. 💪 Opened PR [#1](https://github.com/Zaid-maker/uptime-kuma/pull/1) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 4. 🔒 Closed issue [#88](https://github.com/DevMirza-Blog/status/issues/88) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
