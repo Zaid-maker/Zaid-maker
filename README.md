@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66870](https://github.com/vercel/next.js/pull/66870) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/next.js/pull/2) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
-3. 🗣 Commented on [#531](https://github.com/Zaid-maker/status-page-advanced/issues/531#issuecomment-2167328988) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#531](https://github.com/Zaid-maker/status-page-advanced/issues/531) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#66870](https://github.com/vercel/next.js/pull/66870#issuecomment-2168559214) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 💪 Opened PR [#66870](https://github.com/vercel/next.js/pull/66870) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🎉 Merged PR [#2](https://github.com/Zaid-maker/next.js/pull/2) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
+4. 🗣 Commented on [#531](https://github.com/Zaid-maker/status-page-advanced/issues/531#issuecomment-2167328988) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
