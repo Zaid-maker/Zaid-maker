@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66870](https://github.com/vercel/next.js/pull/66870#issuecomment-2168559214) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 💪 Opened PR [#66870](https://github.com/vercel/next.js/pull/66870) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🎉 Merged PR [#2](https://github.com/Zaid-maker/next.js/pull/2) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
-4. 🗣 Commented on [#531](https://github.com/Zaid-maker/status-page-advanced/issues/531#issuecomment-2167328988) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#481](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/481) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+2. 🎉 Merged PR [#482](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/482) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. 🗣 Commented on [#66870](https://github.com/vercel/next.js/pull/66870#issuecomment-2168559214) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 💪 Opened PR [#66870](https://github.com/vercel/next.js/pull/66870) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
