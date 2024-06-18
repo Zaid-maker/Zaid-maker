@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Zaid-maker/uptime-kuma/pull/3) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🗣 Commented on [#90](https://github.com/DevMirza-Blog/status/issues/90#issuecomment-2172992712) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🔒 Closed issue [#90](https://github.com/DevMirza-Blog/status/issues/90) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#89](https://github.com/DevMirza-Blog/status/issues/89) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🔒 Closed issue [#91](https://github.com/DevMirza-Blog/status/issues/91) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🗣 Commented on [#91](https://github.com/DevMirza-Blog/status/issues/91#issuecomment-2175562453) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. ❗ Opened issue [#91](https://github.com/DevMirza-Blog/status/issues/91) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 💪 Opened PR [#3](https://github.com/Zaid-maker/uptime-kuma/pull/3) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
