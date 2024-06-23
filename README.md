@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#536](https://github.com/Zaid-maker/status-page-advanced/issues/536) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#536](https://github.com/Zaid-maker/status-page-advanced/issues/536#issuecomment-2184255344) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 💪 Opened PR [#5](https://github.com/Zaid-maker/uptime-kuma/pull/5) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-4. ❗ Opened issue [#536](https://github.com/Zaid-maker/status-page-advanced/issues/536) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#30](https://github.com/Zaid-maker/finance/pull/30) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+2. ❌ Closed PR [#29](https://github.com/Zaid-maker/finance/pull/29) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+3. ❌ Closed PR [#25](https://github.com/Zaid-maker/finance/pull/25) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+4. ❌ Closed PR [#22](https://github.com/Zaid-maker/finance/pull/22) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
