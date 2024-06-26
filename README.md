@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#33](https://github.com/Zaid-maker/finance/pull/33) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
-2. 🗣 Commented on [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37#issuecomment-2190437641) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. 🔒 Closed issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. ❗ Opened issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. ❗ Opened issue [#539](https://github.com/Zaid-maker/status-page-advanced/issues/539) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#538](https://github.com/Zaid-maker/status-page-advanced/issues/538) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#537](https://github.com/Zaid-maker/status-page-advanced/issues/537) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❌ Closed PR [#33](https://github.com/Zaid-maker/finance/pull/33) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
