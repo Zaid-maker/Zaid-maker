@@ -17,8 +17,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Zaid-maker/Zaid-maker/pull/20) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-2. ❌ Closed PR [#30](https://github.com/Zaid-maker/finance/pull/30) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+1. ❗ Opened issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🎉 Merged PR [#20](https://github.com/Zaid-maker/Zaid-maker/pull/20) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
 3. ❌ Closed PR [#29](https://github.com/Zaid-maker/finance/pull/29) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 4. ❌ Closed PR [#25](https://github.com/Zaid-maker/finance/pull/25) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
 <!--END_SECTION:activity-->
