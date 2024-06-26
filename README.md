@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37#issuecomment-2190437641) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 🔒 Closed issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. ❗ Opened issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 🎉 Merged PR [#20](https://github.com/Zaid-maker/Zaid-maker/pull/20) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
+1. ❌ Closed PR [#33](https://github.com/Zaid-maker/finance/pull/33) in [Zaid-maker/finance](https://github.com/Zaid-maker/finance)
+2. 🗣 Commented on [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37#issuecomment-2190437641) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. 🔒 Closed issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. ❗ Opened issue [#37](https://github.com/Cyclone-Bot-List/uptime/issues/37) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
