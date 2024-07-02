@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#490](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/490) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-2. ❌ Closed PR [#472](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/472) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-3. 🎉 Merged PR [#462](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/462) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/renovate/pull/2) in [Zaid-maker/renovate](https://github.com/Zaid-maker/renovate)
+1. ❗ Opened issue [#543](https://github.com/Zaid-maker/status-page-advanced/issues/543) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❌ Closed PR [#490](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/490) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. ❌ Closed PR [#472](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/472) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+4. 🎉 Merged PR [#462](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/462) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
