@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Zaid-maker/uptime-kuma/pull/6) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. ❗ Opened issue [#544](https://github.com/Zaid-maker/status-page-advanced/issues/544) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#543](https://github.com/Zaid-maker/status-page-advanced/issues/543) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❌ Closed PR [#490](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/490) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+1. ❗ Opened issue [#95](https://github.com/DevMirza-Blog/status/issues/95) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. ❗ Opened issue [#94](https://github.com/DevMirza-Blog/status/issues/94) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 💪 Opened PR [#6](https://github.com/Zaid-maker/uptime-kuma/pull/6) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+4. ❗ Opened issue [#544](https://github.com/Zaid-maker/status-page-advanced/issues/544) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
