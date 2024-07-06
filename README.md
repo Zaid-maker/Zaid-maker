@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#97](https://github.com/DevMirza-Blog/status/issues/97) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🗣 Commented on [#97](https://github.com/DevMirza-Blog/status/issues/97#issuecomment-2208903944) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🗣 Commented on [#96](https://github.com/DevMirza-Blog/status/issues/96#issuecomment-2208903878) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#96](https://github.com/DevMirza-Blog/status/issues/96) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🗣 Commented on [#544](https://github.com/Zaid-maker/status-page-advanced/issues/544#issuecomment-2211731627) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#544](https://github.com/Zaid-maker/status-page-advanced/issues/544) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#97](https://github.com/DevMirza-Blog/status/issues/97) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🗣 Commented on [#97](https://github.com/DevMirza-Blog/status/issues/97#issuecomment-2208903944) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
