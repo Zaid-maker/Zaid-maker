@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/monkeytype/pull/1) in [Zaid-maker/monkeytype](https://github.com/Zaid-maker/monkeytype)
-2. ❗ Opened issue [#104](https://github.com/DevMirza-Blog/status/issues/104) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. ❗ Opened issue [#103](https://github.com/DevMirza-Blog/status/issues/103) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. ❗ Opened issue [#567](https://github.com/Zaid-maker/status-page-advanced/issues/567) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#568](https://github.com/Zaid-maker/status-page-advanced/issues/568) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/monkeytype/pull/1) in [Zaid-maker/monkeytype](https://github.com/Zaid-maker/monkeytype)
+3. ❗ Opened issue [#104](https://github.com/DevMirza-Blog/status/issues/104) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. ❗ Opened issue [#103](https://github.com/DevMirza-Blog/status/issues/103) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
