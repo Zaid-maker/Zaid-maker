@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/project_modern_ui_ux_restaurant/pull/1) in [Zaid-maker/project_modern_ui_ux_restaurant](https://github.com/Zaid-maker/project_modern_ui_ux_restaurant)
-2. ❗ Opened issue [#570](https://github.com/Zaid-maker/status-page-advanced/issues/570) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#569](https://github.com/Zaid-maker/status-page-advanced/issues/569) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#569](https://github.com/Zaid-maker/status-page-advanced/issues/569#issuecomment-2241488677) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/CarePulse/pull/5) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+2. 💪 Opened PR [#5](https://github.com/Zaid-maker/CarePulse/pull/5) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/project_modern_ui_ux_restaurant/pull/1) in [Zaid-maker/project_modern_ui_ux_restaurant](https://github.com/Zaid-maker/project_modern_ui_ux_restaurant)
+4. ❗ Opened issue [#570](https://github.com/Zaid-maker/status-page-advanced/issues/570) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
