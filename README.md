@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Zaid-maker/CarePulse/pull/4) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-2. 💪 Opened PR [#4](https://github.com/Zaid-maker/CarePulse/pull/4) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-3. 🎉 Merged PR [#2](https://github.com/Zaid-maker/CarePulse/pull/2) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-4. ❗ Opened issue [#569](https://github.com/Zaid-maker/status-page-advanced/issues/569) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🔒 Closed issue [#569](https://github.com/Zaid-maker/status-page-advanced/issues/569) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#569](https://github.com/Zaid-maker/status-page-advanced/issues/569#issuecomment-2241488677) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🎉 Merged PR [#4](https://github.com/Zaid-maker/CarePulse/pull/4) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+4. 💪 Opened PR [#4](https://github.com/Zaid-maker/CarePulse/pull/4) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
