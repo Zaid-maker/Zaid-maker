@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
-2. 💪 Opened PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
-3. ❌ Closed PR [#5](https://github.com/Zaid-maker/uptime-kuma/pull/5) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-4. ❗ Opened issue [#571](https://github.com/Zaid-maker/status-page-advanced/issues/571) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#11](https://github.com/Zaid-maker/evently/pull/11) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
+2. 🎉 Merged PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
+3. 💪 Opened PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
+4. ❌ Closed PR [#5](https://github.com/Zaid-maker/uptime-kuma/pull/5) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
