@@ -17,8 +17,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Zaid-maker/code-server/pull/29) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-2. 🎉 Merged PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
+1. 🎉 Merged PR [#3](https://github.com/Zaid-maker/CarePulse/pull/3) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+2. 🎉 Merged PR [#29](https://github.com/Zaid-maker/code-server/pull/29) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
 3. 💪 Opened PR [#10](https://github.com/Zaid-maker/evently/pull/10) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
 4. ❌ Closed PR [#5](https://github.com/Zaid-maker/uptime-kuma/pull/5) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
