@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/Zaid-maker/repos/pull/63) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
-2. 🗣 Commented on [#11](https://github.com/Zaid-maker/evently/pull/11#issuecomment-2259737825) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
-3. 🎉 Merged PR [#3](https://github.com/Zaid-maker/CarePulse/pull/3) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-4. 🎉 Merged PR [#29](https://github.com/Zaid-maker/code-server/pull/29) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
+1. 🗣 Commented on [#104](https://github.com/DevMirza-Blog/status/issues/104#issuecomment-2259785841) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🗣 Commented on [#103](https://github.com/DevMirza-Blog/status/issues/103#issuecomment-2259785784) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 🔒 Closed issue [#104](https://github.com/DevMirza-Blog/status/issues/104) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#103](https://github.com/DevMirza-Blog/status/issues/103) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
