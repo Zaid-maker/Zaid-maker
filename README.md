@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/DevMirza-Blog/status/issues/104#issuecomment-2259785841) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🗣 Commented on [#103](https://github.com/DevMirza-Blog/status/issues/103#issuecomment-2259785784) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🔒 Closed issue [#104](https://github.com/DevMirza-Blog/status/issues/104) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#103](https://github.com/DevMirza-Blog/status/issues/103) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🗣 Commented on [#8090](https://github.com/vercel/turbo/pull/8090#issuecomment-2260084396) in [vercel/turbo](https://github.com/vercel/turbo)
+2. 🗣 Commented on [#104](https://github.com/DevMirza-Blog/status/issues/104#issuecomment-2259785841) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 🗣 Commented on [#103](https://github.com/DevMirza-Blog/status/issues/103#issuecomment-2259785784) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#104](https://github.com/DevMirza-Blog/status/issues/104) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
