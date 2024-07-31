@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Zaid-maker/evently/pull/11#issuecomment-2259737825) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
-2. 🎉 Merged PR [#3](https://github.com/Zaid-maker/CarePulse/pull/3) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-3. 🎉 Merged PR [#29](https://github.com/Zaid-maker/code-server/pull/29) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-4. ❌ Closed PR [#5](https://github.com/Zaid-maker/uptime-kuma/pull/5) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1. 💪 Opened PR [#63](https://github.com/Zaid-maker/repos/pull/63) in [Zaid-maker/repos](https://github.com/Zaid-maker/repos)
+2. 🗣 Commented on [#11](https://github.com/Zaid-maker/evently/pull/11#issuecomment-2259737825) in [Zaid-maker/evently](https://github.com/Zaid-maker/evently)
+3. 🎉 Merged PR [#3](https://github.com/Zaid-maker/CarePulse/pull/3) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+4. 🎉 Merged PR [#29](https://github.com/Zaid-maker/code-server/pull/29) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
