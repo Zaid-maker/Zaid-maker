@@ -17,8 +17,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#573](https://github.com/Zaid-maker/status-page-advanced/issues/573) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#572](https://github.com/Zaid-maker/status-page-advanced/issues/572#issuecomment-2264137742) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#573](https://github.com/Zaid-maker/status-page-advanced/issues/573#issuecomment-2268091547) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#573](https://github.com/Zaid-maker/status-page-advanced/issues/573) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. 🔒 Closed issue [#572](https://github.com/Zaid-maker/status-page-advanced/issues/572) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#572](https://github.com/Zaid-maker/status-page-advanced/issues/572) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
