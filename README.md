@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/DevMirza-Blog/status/issues/106#issuecomment-2274074275) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🔒 Closed issue [#106](https://github.com/DevMirza-Blog/status/issues/106) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🗣 Commented on [#105](https://github.com/DevMirza-Blog/status/issues/105#issuecomment-2274074184) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#105](https://github.com/DevMirza-Blog/status/issues/105) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. 🎉 Merged PR [#15](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/15) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
+2. ❌ Closed PR [#18](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/18) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
+3. 🎉 Merged PR [#19](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/19) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
+4. 🎉 Merged PR [#17](https://github.com/Zaid-maker/react-19-playground/pull/17) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
