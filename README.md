@@ -17,7 +17,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/15) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
+1. ❗ Opened issue [#590](https://github.com/Zaid-maker/status-page-advanced/issues/590) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 2. ❌ Closed PR [#18](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/18) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
 3. 🎉 Merged PR [#19](https://github.com/Zaid-maker/nodejs-web-scrapper/pull/19) in [Zaid-maker/nodejs-web-scrapper](https://github.com/Zaid-maker/nodejs-web-scrapper)
 4. 🎉 Merged PR [#17](https://github.com/Zaid-maker/react-19-playground/pull/17) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
