@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/Zaid-maker/corona-box/releases/tag/v0.0.1) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/corona-box/pull/1) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/CarePulse/pull/6) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
-4. 💪 Opened PR [#6](https://github.com/Zaid-maker/CarePulse/pull/6) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
+1. 🚀 Published release [v0.0.2](https://github.com/Zaid-maker/corona-box/releases/tag/v0.0.2) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+2. 🚀 Published release [v0.0.1](https://github.com/Zaid-maker/corona-box/releases/tag/v0.0.1) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/corona-box/pull/1) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/CarePulse/pull/6) in [Zaid-maker/CarePulse](https://github.com/Zaid-maker/CarePulse)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
