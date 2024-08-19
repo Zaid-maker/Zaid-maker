@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/corona-box/pull/5) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-2. ❌ Closed PR [#10](https://github.com/Zaid-maker/corona-box/pull/10) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-3. ❌ Closed PR [#9](https://github.com/Zaid-maker/corona-box/pull/9) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-4. 🎉 Merged PR [#7](https://github.com/Zaid-maker/corona-box/pull/7) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+1. 🗣 Commented on [#28](https://github.com/peter-evans/slash-command-dispatch/pull/28#issuecomment-2296753425) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+2. 🎉 Merged PR [#5](https://github.com/Zaid-maker/corona-box/pull/5) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+3. ❌ Closed PR [#10](https://github.com/Zaid-maker/corona-box/pull/10) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+4. ❌ Closed PR [#9](https://github.com/Zaid-maker/corona-box/pull/9) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
