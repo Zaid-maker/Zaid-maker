@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Zaid-maker/corona-box/pull/11) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-2. 🚀 Published release [v0.0.3](https://github.com/Zaid-maker/recent-activity/releases/tag/v0.0.3) in [Zaid-maker/recent-activity](https://github.com/Zaid-maker/recent-activity)
-3. 🚀 Published release [v0.1.0](https://github.com/Zaid-maker/corona-box/releases/tag/v0.1.0) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-4. 🗣 Commented on [#28](https://github.com/peter-evans/slash-command-dispatch/pull/28#issuecomment-2296753425) in [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+1. 💪 Opened PR [#12](https://github.com/Zaid-maker/status-page/pull/12) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
+2. 🎉 Merged PR [#11](https://github.com/Zaid-maker/corona-box/pull/11) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
+3. 🚀 Published release [v0.0.3](https://github.com/Zaid-maker/recent-activity/releases/tag/v0.0.3) in [Zaid-maker/recent-activity](https://github.com/Zaid-maker/recent-activity)
+4. 🚀 Published release [v0.1.0](https://github.com/Zaid-maker/corona-box/releases/tag/v0.1.0) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
