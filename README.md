@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Zaid-maker/status-page/pull/12) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-2. 💪 Opened PR [#12](https://github.com/Zaid-maker/status-page/pull/12) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-3. 🎉 Merged PR [#11](https://github.com/Zaid-maker/corona-box/pull/11) in [Zaid-maker/corona-box](https://github.com/Zaid-maker/corona-box)
-4. 🚀 Published release [v0.0.3](https://github.com/Zaid-maker/recent-activity/releases/tag/v0.0.3) in [Zaid-maker/recent-activity](https://github.com/Zaid-maker/recent-activity)
+1. 🗣 Commented on [#107](https://github.com/DevMirza-Blog/status/issues/107#issuecomment-2303472410) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. 🔒 Closed issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. ❗ Opened issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. ❌ Closed PR [#12](https://github.com/Zaid-maker/status-page/pull/12) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
