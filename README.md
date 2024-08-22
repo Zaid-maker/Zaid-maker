@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/DevMirza-Blog/status/issues/107#issuecomment-2303472410) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. 🔒 Closed issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. ❗ Opened issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. ❌ Closed PR [#12](https://github.com/Zaid-maker/status-page/pull/12) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
+1. ❗ Opened issue [#109](https://github.com/DevMirza-Blog/status/issues/109) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+2. ❗ Opened issue [#108](https://github.com/DevMirza-Blog/status/issues/108) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+3. 🗣 Commented on [#107](https://github.com/DevMirza-Blog/status/issues/107#issuecomment-2303472410) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. 🔒 Closed issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
