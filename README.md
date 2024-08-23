@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#109](https://github.com/DevMirza-Blog/status/issues/109) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-2. ❗ Opened issue [#108](https://github.com/DevMirza-Blog/status/issues/108) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-3. 🗣 Commented on [#107](https://github.com/DevMirza-Blog/status/issues/107#issuecomment-2303472410) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
-4. 🔒 Closed issue [#107](https://github.com/DevMirza-Blog/status/issues/107) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. ❌ Closed PR [#309](https://github.com/DevMirza-Blog/devmirza-blog-backend/pull/309) in [DevMirza-Blog/devmirza-blog-backend](https://github.com/DevMirza-Blog/devmirza-blog-backend)
+2. ❌ Closed PR [#314](https://github.com/DevMirza-Blog/devmirza-blog-backend/pull/314) in [DevMirza-Blog/devmirza-blog-backend](https://github.com/DevMirza-Blog/devmirza-blog-backend)
+3. ❗ Opened issue [#109](https://github.com/DevMirza-Blog/status/issues/109) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+4. ❗ Opened issue [#108](https://github.com/DevMirza-Blog/status/issues/108) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
