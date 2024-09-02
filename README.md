@@ -17,7 +17,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Zaid-maker/books/issues/3) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
+1. ❗ Opened issue [#594](https://github.com/Zaid-maker/status-page-advanced/issues/594) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 2. 🔒 Closed issue [#7](https://github.com/Zaid-maker/books/issues/7) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
 3. 🔒 Closed issue [#8](https://github.com/Zaid-maker/books/issues/8) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
 4. 🎉 Merged PR [#10](https://github.com/Zaid-maker/books/pull/10) in [Zaid-maker/books](https://github.com/Zaid-maker/books)
