@@ -17,8 +17,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Zaid-maker/uptime-kuma/pull/7) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🔒 Closed issue [#39](https://github.com/Cyclone-Bot-List/uptime/issues/39) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 💪 Opened PR [#8](https://github.com/Zaid-maker/uptime-kuma/pull/8) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. 💪 Opened PR [#7](https://github.com/Zaid-maker/uptime-kuma/pull/7) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 3. ❗ Opened issue [#39](https://github.com/Cyclone-Bot-List/uptime/issues/39) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 4. 🎉 Merged PR [#16](https://github.com/Zaid-maker/my-top-views-counter/pull/16) in [Zaid-maker/my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
 <!--END_SECTION:activity-->
