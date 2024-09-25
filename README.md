@@ -17,9 +17,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#607](https://github.com/Zaid-maker/status-page-advanced/issues/607) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 💪 Opened PR [#13](https://github.com/Zaid-maker/status-page/pull/13) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
-3. 🔒 Closed issue [#112](https://github.com/DevMirza-Blog/status/issues/112) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
+1. ❗ Opened issue [#40](https://github.com/Cyclone-Bot-List/uptime/issues/40) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. ❗ Opened issue [#607](https://github.com/Zaid-maker/status-page-advanced/issues/607) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 💪 Opened PR [#13](https://github.com/Zaid-maker/status-page/pull/13) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
 4. 🗣 Commented on [#112](https://github.com/DevMirza-Blog/status/issues/112#issuecomment-2363505877) in [DevMirza-Blog/status](https://github.com/DevMirza-Blog/status)
 <!--END_SECTION:activity-->
 
