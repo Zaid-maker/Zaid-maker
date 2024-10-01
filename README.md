@@ -17,7 +17,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Zaid-maker/code-server/pull/32) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
+1. 🚀 Published release [v1.2.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.2.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
 2. 🗣 Commented on [#608](https://github.com/Zaid-maker/status-page-advanced/issues/608#issuecomment-2373120637) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. 🔒 Closed issue [#608](https://github.com/Zaid-maker/status-page-advanced/issues/608) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#608](https://github.com/Zaid-maker/status-page-advanced/issues/608) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
