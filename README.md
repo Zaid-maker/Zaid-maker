@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Zaid-maker/pm2-windows-boot/pull/2) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
-2. 🚀 Published release [v1.3.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.3.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
-3. 🚀 Published release [v1.2.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.2.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
-4. ❗ Opened issue [#608](https://github.com/Zaid-maker/status-page-advanced/issues/608) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#609](https://github.com/Zaid-maker/status-page-advanced/issues/609) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/pm2-windows-boot/pull/2) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
+3. 🚀 Published release [v1.3.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.3.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
+4. 🚀 Published release [v1.2.0](https://github.com/Zaid-maker/pm2-windows-boot/releases/tag/v1.2.0) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
