@@ -17,8 +17,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#610](https://github.com/Zaid-maker/status-page-advanced/issues/610) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#609](https://github.com/Zaid-maker/status-page-advanced/issues/609) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
+2. ❗ Opened issue [#610](https://github.com/Zaid-maker/status-page-advanced/issues/610) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. ❗ Opened issue [#609](https://github.com/Zaid-maker/status-page-advanced/issues/609) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 💪 Opened PR [#2](https://github.com/Zaid-maker/pm2-windows-boot/pull/2) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
 <!--END_SECTION:activity-->
