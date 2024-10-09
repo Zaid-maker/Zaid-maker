@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Zaid-maker/uptime-kuma/pull/10) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. ❗ Opened issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
-3. ❗ Opened issue [#610](https://github.com/Zaid-maker/status-page-advanced/issues/610) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 💪 Opened PR [#2](https://github.com/Zaid-maker/pm2-windows-boot/pull/2) in [Zaid-maker/pm2-windows-boot](https://github.com/Zaid-maker/pm2-windows-boot)
+1. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2401902830) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 💪 Opened PR [#10](https://github.com/Zaid-maker/uptime-kuma/pull/10) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. ❗ Opened issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
+4. ❗ Opened issue [#610](https://github.com/Zaid-maker/status-page-advanced/issues/610) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
