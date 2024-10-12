@@ -17,10 +17,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/nadirasaid8/majohub/issues/1) in [nadirasaid8/majohub](https://github.com/nadirasaid8/majohub)
-2. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2404710234) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2404705105) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-4. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2402862075) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ❗ Opened issue [#611](https://github.com/Zaid-maker/status-page-advanced/issues/611) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#1](https://github.com/nadirasaid8/majohub/issues/1) in [nadirasaid8/majohub](https://github.com/nadirasaid8/majohub)
+3. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2404710234) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#3571](https://github.com/louislam/uptime-kuma/pull/3571#issuecomment-2404705105) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
