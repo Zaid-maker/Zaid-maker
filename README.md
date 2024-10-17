@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#615](https://github.com/Zaid-maker/status-page-advanced/issues/615#issuecomment-2413620415) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#615](https://github.com/Zaid-maker/status-page-advanced/issues/615) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#10](https://github.com/Freddywhest/ToMarketBot/issues/10) in [Freddywhest/ToMarketBot](https://github.com/Freddywhest/ToMarketBot)
+1. ❌ Closed PR [#13](https://github.com/Zaid-maker/status-page/pull/13) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
+2. 🗣 Commented on [#615](https://github.com/Zaid-maker/status-page-advanced/issues/615#issuecomment-2413620415) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#615](https://github.com/Zaid-maker/status-page-advanced/issues/615) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#615](https://github.com/Zaid-maker/status-page-advanced/issues/615) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
