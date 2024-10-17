@@ -5,6 +5,7 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 [![wakatime](https://wakatime.com/badge/user/d594dc95-07a5-471b-a3e1-8d5fea65bed3.svg)](https://wakatime.com/@d594dc95-07a5-471b-a3e1-8d5fea65bed3)
+[![Visits Badge](https://badges.pufler.dev/visits/Zaid-maker/badge-it)](https://badges.pufler.dev)
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
