@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2421668573) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2420390334) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#2237](https://github.com/expressjs/express/pull/2237#issuecomment-2420265793) in [expressjs/express](https://github.com/expressjs/express)
-4. ❌ Closed PR [#13](https://github.com/Zaid-maker/status-page/pull/13) in [Zaid-maker/status-page](https://github.com/Zaid-maker/status-page)
+1. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2421943692) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2421668573) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2420390334) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#2237](https://github.com/expressjs/express/pull/2237#issuecomment-2420265793) in [expressjs/express](https://github.com/expressjs/express)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
