@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
-2. 🗣 Commented on [#10](https://github.com/Freddywhest/ToMarketBot/issues/10#issuecomment-2424884004) in [Freddywhest/ToMarketBot](https://github.com/Freddywhest/ToMarketBot)
-3. 🗣 Commented on [#10](https://github.com/Freddywhest/ToMarketBot/issues/10#issuecomment-2424882704) in [Freddywhest/ToMarketBot](https://github.com/Freddywhest/ToMarketBot)
-4. 🗣 Commented on [#4456](https://github.com/louislam/uptime-kuma/issues/4456#issuecomment-2423650934) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. 🗣 Commented on [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41#issuecomment-2430496815) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🔒 Closed issue [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🔒 Closed issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
