@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41#issuecomment-2430496815) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 🔒 Closed issue [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. ❗ Opened issue [#41](https://github.com/Cyclone-Bot-List/uptime/issues/41) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. ❌ Closed PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
+2. 💪 Opened PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
+3. 💪 Opened PR [#1](https://github.com/Zaid-maker/ion-app/pull/1) in [Zaid-maker/ion-app](https://github.com/Zaid-maker/ion-app)
 4. 🔒 Closed issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
 <!--END_SECTION:activity-->
 
