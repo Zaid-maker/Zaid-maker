@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
-2. 💪 Opened PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
-3. 💪 Opened PR [#1](https://github.com/Zaid-maker/ion-app/pull/1) in [Zaid-maker/ion-app](https://github.com/Zaid-maker/ion-app)
-4. 🔒 Closed issue [#11](https://github.com/Freddywhest/TimeFarmBot/issues/11) in [Freddywhest/TimeFarmBot](https://github.com/Freddywhest/TimeFarmBot)
+1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/jira-clone/pull/2) in [Zaid-maker/jira-clone](https://github.com/Zaid-maker/jira-clone)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/jira-clone/pull/2) in [Zaid-maker/jira-clone](https://github.com/Zaid-maker/jira-clone)
+3. ❌ Closed PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
+4. 💪 Opened PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
