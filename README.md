@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/jira-clone/pull/2) in [Zaid-maker/jira-clone](https://github.com/Zaid-maker/jira-clone)
-2. 💪 Opened PR [#2](https://github.com/Zaid-maker/jira-clone/pull/2) in [Zaid-maker/jira-clone](https://github.com/Zaid-maker/jira-clone)
-3. ❌ Closed PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
-4. 💪 Opened PR [#271](https://github.com/ice-blockchain/ion-app/pull/271) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
+1. ❌ Closed PR [#10](https://github.com/Zaid-maker/uptime-kuma/pull/10) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. ❌ Closed PR [#9](https://github.com/Zaid-maker/uptime-kuma/pull/9) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+3. ❌ Closed PR [#4](https://github.com/Zaid-maker/uptime-kuma/pull/4) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+4. ❌ Closed PR [#8](https://github.com/Zaid-maker/uptime-kuma/pull/8) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
