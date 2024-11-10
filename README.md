@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#621](https://github.com/Zaid-maker/status-page-advanced/issues/621) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#621](https://github.com/Zaid-maker/status-page-advanced/issues/621#issuecomment-2466594955) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#621](https://github.com/Zaid-maker/status-page-advanced/issues/621) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#620](https://github.com/Zaid-maker/status-page-advanced/issues/620#issuecomment-2466587869) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#294](https://github.com/ice-blockchain/ion-app/pull/294#issuecomment-2466653317) in [ice-blockchain/ion-app](https://github.com/ice-blockchain/ion-app)
+2. ❌ Closed PR [#1](https://github.com/Zaid-maker/ion-app/pull/1) in [Zaid-maker/ion-app](https://github.com/Zaid-maker/ion-app)
+3. 🔒 Closed issue [#621](https://github.com/Zaid-maker/status-page-advanced/issues/621) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#621](https://github.com/Zaid-maker/status-page-advanced/issues/621#issuecomment-2466594955) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
