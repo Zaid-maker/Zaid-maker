@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Zaid-maker/Zaid-maker/pull/22) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-2. 🔒 Closed issue [#619](https://github.com/Zaid-maker/status-page-advanced/issues/619) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#620](https://github.com/Zaid-maker/status-page-advanced/issues/620) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🎉 Merged PR [#22](https://github.com/Zaid-maker/Zaid-maker/pull/22) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
 3. ❗ Opened issue [#619](https://github.com/Zaid-maker/status-page-advanced/issues/619) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🗣 Commented on [#618](https://github.com/Zaid-maker/status-page-advanced/issues/618#issuecomment-2449202654) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
