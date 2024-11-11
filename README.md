@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622#issuecomment-2467997309) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#46](https://github.com/kkkgo/LTSC-Add-MicrosoftStore/issues/46) in [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)
+1. ❗ Opened issue [#623](https://github.com/Zaid-maker/status-page-advanced/issues/623) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622#issuecomment-2467997309) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#622](https://github.com/Zaid-maker/status-page-advanced/issues/622) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
