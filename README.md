@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/193#issuecomment-2472872485) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
-2. 🗣 Commented on [#623](https://github.com/Zaid-maker/status-page-advanced/issues/623#issuecomment-2468348432) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#28](https://github.com/Zaid-maker/todo-app-in-svelte/pull/28) in [Zaid-maker/todo-app-in-svelte](https://github.com/Zaid-maker/todo-app-in-svelte)
+2. 🗣 Commented on [#193](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/193#issuecomment-2472872485) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
 3. 🔒 Closed issue [#623](https://github.com/Zaid-maker/status-page-advanced/issues/623) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#623](https://github.com/Zaid-maker/status-page-advanced/issues/623) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
