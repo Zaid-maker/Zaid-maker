@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/Zaid-maker/top-github-users-action/pull/10) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
-2. ❌ Closed PR [#9](https://github.com/Zaid-maker/top-github-users-action/pull/9) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
-3. 🚀 Published release [v1.0.2](https://github.com/Zaid-maker/top-github-users-action/releases/tag/v1.0.2) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
-4. 🚀 Published release [v1.0.1](https://github.com/Zaid-maker/top-github-users-action/releases/tag/v1.0.1) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
+1. 🗣 Commented on [#625](https://github.com/Zaid-maker/status-page-advanced/issues/625#issuecomment-2508976464) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#625](https://github.com/Zaid-maker/status-page-advanced/issues/625) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❌ Closed PR [#10](https://github.com/Zaid-maker/top-github-users-action/pull/10) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
+4. ❌ Closed PR [#9](https://github.com/Zaid-maker/top-github-users-action/pull/9) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
