@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Zaid-maker/top-github-users-action/pull/12) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/top-github-users-list/pull/1) in [Zaid-maker/top-github-users-list](https://github.com/Zaid-maker/top-github-users-list)
+1. 💪 Opened PR [#5416](https://github.com/louislam/uptime-kuma/pull/5416) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. ❌ Closed PR [#12](https://github.com/Zaid-maker/top-github-users-action/pull/12) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
 3. ❌ Closed PR [#148](https://github.com/Zaid-maker/portfolio/pull/148) in [Zaid-maker/portfolio](https://github.com/Zaid-maker/portfolio)
 4. ❌ Closed PR [#144](https://github.com/Zaid-maker/portfolio/pull/144) in [Zaid-maker/portfolio](https://github.com/Zaid-maker/portfolio)
 <!--END_SECTION:activity-->
