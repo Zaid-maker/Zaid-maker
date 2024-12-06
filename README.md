@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5416](https://github.com/louislam/uptime-kuma/pull/5416) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. ❌ Closed PR [#12](https://github.com/Zaid-maker/top-github-users-action/pull/12) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
-3. ❌ Closed PR [#148](https://github.com/Zaid-maker/portfolio/pull/148) in [Zaid-maker/portfolio](https://github.com/Zaid-maker/portfolio)
-4. ❌ Closed PR [#144](https://github.com/Zaid-maker/portfolio/pull/144) in [Zaid-maker/portfolio](https://github.com/Zaid-maker/portfolio)
+1. 🗣 Commented on [#5417](https://github.com/louislam/uptime-kuma/pull/5417#issuecomment-2522826756) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 💪 Opened PR [#5417](https://github.com/louislam/uptime-kuma/pull/5417) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 💪 Opened PR [#5416](https://github.com/louislam/uptime-kuma/pull/5416) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. ❌ Closed PR [#12](https://github.com/Zaid-maker/top-github-users-action/pull/12) in [Zaid-maker/top-github-users-action](https://github.com/Zaid-maker/top-github-users-action)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
