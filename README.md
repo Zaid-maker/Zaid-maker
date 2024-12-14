@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629#issuecomment-2543006407) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#32](https://github.com/adavak/Win_ISO_Patching_Scripts/issues/32) in [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts)
+1. ❗ Opened issue [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629#issuecomment-2543006407) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
