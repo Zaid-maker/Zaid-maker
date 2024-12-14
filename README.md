@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. ❗ Opened issue [#32](https://github.com/adavak/Win_ISO_Patching_Scripts/issues/32) in [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts)
-3. 🎉 Merged PR [#8](https://github.com/Zaid-maker/react-19-playground/pull/8) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
-4. 🎉 Merged PR [#21](https://github.com/Zaid-maker/react-19-playground/pull/21) in [Zaid-maker/react-19-playground](https://github.com/Zaid-maker/react-19-playground)
+1. 🗣 Commented on [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629#issuecomment-2543006407) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#32](https://github.com/adavak/Win_ISO_Patching_Scripts/issues/32) in [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
