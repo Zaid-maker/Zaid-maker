@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zaidhafeeez/open_wiki/pull/1) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
-2. 🎉 Merged PR [#2](https://github.com/zaidhafeeez/open_wiki/pull/2) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
-3. ❗ Opened issue [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#629](https://github.com/Zaid-maker/status-page-advanced/issues/629#issuecomment-2543006407) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630#issuecomment-2543374739) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🎉 Merged PR [#1](https://github.com/zaidhafeeez/open_wiki/pull/1) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
+4. 🎉 Merged PR [#2](https://github.com/zaidhafeeez/open_wiki/pull/2) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
