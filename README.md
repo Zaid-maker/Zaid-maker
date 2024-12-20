@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#631](https://github.com/Zaid-maker/status-page-advanced/issues/631) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630#issuecomment-2543374739) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🎉 Merged PR [#1](https://github.com/zaidhafeeez/open_wiki/pull/1) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
+1. 🎉 Merged PR [#9](https://github.com/zaidhafeeez/open_wiki/pull/9) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
+2. 🗣 Commented on [#631](https://github.com/Zaid-maker/status-page-advanced/issues/631#issuecomment-2557122022) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#631](https://github.com/Zaid-maker/status-page-advanced/issues/631) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#631](https://github.com/Zaid-maker/status-page-advanced/issues/631) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
