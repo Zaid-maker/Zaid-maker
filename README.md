@@ -18,7 +18,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/zaidhafeeez/open_wiki/pull/5) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
+1. ❗ Opened issue [#631](https://github.com/Zaid-maker/status-page-advanced/issues/631) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 2. 🗣 Commented on [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630#issuecomment-2543374739) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. 🔒 Closed issue [#630](https://github.com/Zaid-maker/status-page-advanced/issues/630) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🎉 Merged PR [#1](https://github.com/zaidhafeeez/open_wiki/pull/1) in [zaidhafeeez/open_wiki](https://github.com/zaidhafeeez/open_wiki)
