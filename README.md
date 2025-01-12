@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/chatty/pull/5) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
-2. 💪 Opened PR [#5](https://github.com/Zaid-maker/chatty/pull/5) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
-3. 🗣 Commented on [#2](https://github.com/Zaid-maker/chatty/pull/2#issuecomment-2585421451) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
-4. 🗣 Commented on [#3](https://github.com/Zaid-maker/chatty/pull/3#issuecomment-2585420682) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+1. 🎉 Merged PR [#3](https://github.com/Zaid-maker/chatty/pull/3) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+2. 🎉 Merged PR [#4](https://github.com/Zaid-maker/chatty/pull/4) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+3. 🗣 Commented on [#4](https://github.com/Zaid-maker/chatty/pull/4#issuecomment-2585463769) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+4. 🗣 Commented on [#4](https://github.com/Zaid-maker/chatty/pull/4#issuecomment-2585462523) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
