@@ -18,7 +18,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/chatty/pull/2) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+1. 💪 Opened PR [#6](https://github.com/Zaid-maker/chatty/pull/6) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 2. 🎉 Merged PR [#3](https://github.com/Zaid-maker/chatty/pull/3) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 3. 🎉 Merged PR [#4](https://github.com/Zaid-maker/chatty/pull/4) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 4. 🗣 Commented on [#4](https://github.com/Zaid-maker/chatty/pull/4#issuecomment-2585463769) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
