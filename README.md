@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-2. 💪 Opened PR [#6](https://github.com/Zaid-maker/chatty/pull/6) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
-3. 🎉 Merged PR [#4](https://github.com/Zaid-maker/chatty/pull/4) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+1. ❗ Opened issue [#636](https://github.com/Zaid-maker/status-page-advanced/issues/636) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 💪 Opened PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
+3. 💪 Opened PR [#6](https://github.com/Zaid-maker/chatty/pull/6) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 4. 🗣 Commented on [#4](https://github.com/Zaid-maker/chatty/pull/4#issuecomment-2585463769) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
 <!--END_SECTION:activity-->
 
