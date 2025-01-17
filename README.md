@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#636](https://github.com/Zaid-maker/status-page-advanced/issues/636) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 💪 Opened PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-3. 💪 Opened PR [#6](https://github.com/Zaid-maker/chatty/pull/6) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
-4. 🗣 Commented on [#4](https://github.com/Zaid-maker/chatty/pull/4#issuecomment-2585463769) in [Zaid-maker/chatty](https://github.com/Zaid-maker/chatty)
+1. 🗣 Commented on [#636](https://github.com/Zaid-maker/status-page-advanced/issues/636#issuecomment-2597696211) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#636](https://github.com/Zaid-maker/status-page-advanced/issues/636) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#636](https://github.com/Zaid-maker/status-page-advanced/issues/636) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
