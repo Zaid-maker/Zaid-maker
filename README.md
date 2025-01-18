@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/Zaid-maker/status-page-advanced/issues/638#issuecomment-2599631391) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#638](https://github.com/Zaid-maker/status-page-advanced/issues/638) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#638](https://github.com/Zaid-maker/status-page-advanced/issues/638) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#637](https://github.com/Zaid-maker/status-page-advanced/issues/637#issuecomment-2599142195) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#68](https://github.com/Zaid-maker/cyclone-bot-list-reborn/pull/68) in [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn)
+2. ❌ Closed PR [#66](https://github.com/Zaid-maker/cyclone-bot-list-reborn/pull/66) in [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn)
+3. ❌ Closed PR [#49](https://github.com/Zaid-maker/cyclone-bot-list-reborn/pull/49) in [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn)
+4. ❌ Closed PR [#44](https://github.com/Zaid-maker/cyclone-bot-list-reborn/pull/44) in [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
