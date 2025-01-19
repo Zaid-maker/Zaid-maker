@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#588](https://github.com/Zaid-maker/status-page-advanced/issues/588) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🎉 Merged PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-3. ❌ Closed PR [#21](https://github.com/Zaid-maker/Zaid-maker/pull/21) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
-4. ❌ Closed PR [#68](https://github.com/Zaid-maker/cyclone-bot-list-reborn/pull/68) in [Zaid-maker/cyclone-bot-list-reborn](https://github.com/Zaid-maker/cyclone-bot-list-reborn)
+1. ❗ Opened issue [#639](https://github.com/Zaid-maker/status-page-advanced/issues/639) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#588](https://github.com/Zaid-maker/status-page-advanced/issues/588) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🎉 Merged PR [#36](https://github.com/Zaid-maker/js-quiz-cli/pull/36) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
+4. ❌ Closed PR [#21](https://github.com/Zaid-maker/Zaid-maker/pull/21) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
