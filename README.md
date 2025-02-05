@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/zaidhafeeez/watch-my-site/pull/3) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-2. 💪 Opened PR [#3](https://github.com/zaidhafeeez/watch-my-site/pull/3) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-3. ❌ Closed PR [#29171](https://github.com/facebook/react/pull/29171) in [facebook/react](https://github.com/facebook/react)
-4. 🗣 Commented on [#655](https://github.com/Zaid-maker/status-page-advanced/issues/655#issuecomment-2629579886) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#656](https://github.com/Zaid-maker/status-page-advanced/issues/656) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🎉 Merged PR [#3](https://github.com/zaidhafeeez/watch-my-site/pull/3) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+3. 💪 Opened PR [#3](https://github.com/zaidhafeeez/watch-my-site/pull/3) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+4. ❌ Closed PR [#29171](https://github.com/facebook/react/pull/29171) in [facebook/react](https://github.com/facebook/react)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
