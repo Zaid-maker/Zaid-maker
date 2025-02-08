@@ -18,7 +18,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#656](https://github.com/Zaid-maker/status-page-advanced/issues/656#issuecomment-2635114485) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#4](https://github.com/Zaid-maker/next.js/pull/4#issuecomment-2645000638) in [Zaid-maker/next.js](https://github.com/Zaid-maker/next.js)
 2. 🔒 Closed issue [#656](https://github.com/Zaid-maker/status-page-advanced/issues/656) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. ❗ Opened issue [#656](https://github.com/Zaid-maker/status-page-advanced/issues/656) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🎉 Merged PR [#3](https://github.com/zaidhafeeez/watch-my-site/pull/3) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
