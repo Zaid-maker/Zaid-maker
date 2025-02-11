@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/zaidhafeeez/watch-my-site/pull/4) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-2. 💪 Opened PR [#4](https://github.com/zaidhafeeez/watch-my-site/pull/4) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-3. 🔒 Closed issue [#658](https://github.com/Zaid-maker/status-page-advanced/issues/658) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#658](https://github.com/Zaid-maker/status-page-advanced/issues/658#issuecomment-2648173561) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#1](https://github.com/Zaid-maker/old-repo-finder/pull/1) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
+2. 🎉 Merged PR [#4](https://github.com/zaidhafeeez/watch-my-site/pull/4) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+3. 💪 Opened PR [#4](https://github.com/zaidhafeeez/watch-my-site/pull/4) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+4. 🔒 Closed issue [#658](https://github.com/Zaid-maker/status-page-advanced/issues/658) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
