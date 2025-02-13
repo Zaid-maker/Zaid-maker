@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/old-repo-finder/pull/1) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
-3. 💪 Opened PR [#4](https://github.com/zaidhafeeez/watch-my-site/pull/4) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-4. 🔒 Closed issue [#658](https://github.com/Zaid-maker/status-page-advanced/issues/658) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42#issuecomment-2655749292) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🔒 Closed issue [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 💪 Opened PR [#1](https://github.com/Zaid-maker/old-repo-finder/pull/1) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
