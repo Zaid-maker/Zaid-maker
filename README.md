@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/my-repo-archive-script/pull/1) in [Zaid-maker/my-repo-archive-script](https://github.com/Zaid-maker/my-repo-archive-script)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/my-repo-archive-script/pull/1) in [Zaid-maker/my-repo-archive-script](https://github.com/Zaid-maker/my-repo-archive-script)
-3. 🗣 Commented on [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42#issuecomment-2655749292) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 🔒 Closed issue [#42](https://github.com/Cyclone-Bot-List/uptime/issues/42) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🎉 Merged PR [#12](https://github.com/zaidhafeeez/watch-my-site/pull/12) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+2. 🎉 Merged PR [#14](https://github.com/zaidhafeeez/watch-my-site/pull/14) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/my-repo-archive-script/pull/1) in [Zaid-maker/my-repo-archive-script](https://github.com/Zaid-maker/my-repo-archive-script)
+4. 💪 Opened PR [#1](https://github.com/Zaid-maker/my-repo-archive-script/pull/1) in [Zaid-maker/my-repo-archive-script](https://github.com/Zaid-maker/my-repo-archive-script)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
