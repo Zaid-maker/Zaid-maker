@@ -18,7 +18,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5587](https://github.com/louislam/uptime-kuma/pull/5587#issuecomment-2661523349) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ❗ Opened issue [#660](https://github.com/Zaid-maker/status-page-advanced/issues/660) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 2. 🎉 Merged PR [#12](https://github.com/zaidhafeeez/watch-my-site/pull/12) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
 3. 🎉 Merged PR [#14](https://github.com/zaidhafeeez/watch-my-site/pull/14) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
 4. 💪 Opened PR [#1](https://github.com/Zaid-maker/my-repo-archive-script/pull/1) in [Zaid-maker/my-repo-archive-script](https://github.com/Zaid-maker/my-repo-archive-script)
