@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/old-repo-finder/pull/2) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
-3. 💪 Opened PR [#2](https://github.com/Zaid-maker/old-repo-finder/pull/2) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
-4. 🔒 Closed issue [#665](https://github.com/Zaid-maker/status-page-advanced/issues/665) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667#issuecomment-2676930729) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/old-repo-finder/pull/2) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
