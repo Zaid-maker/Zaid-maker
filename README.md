@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31917](https://github.com/facebook/react/pull/31917#issuecomment-2686137625) in [facebook/react](https://github.com/facebook/react)
-2. 🔒 Closed issue [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#667](https://github.com/Zaid-maker/status-page-advanced/issues/667) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#17804](https://github.com/oven-sh/bun/issues/17804#issuecomment-2691588575) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. ❗ Opened issue [#17804](https://github.com/oven-sh/bun/issues/17804) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 🗣 Commented on [#31917](https://github.com/facebook/react/pull/31917#issuecomment-2686137625) in [facebook/react](https://github.com/facebook/react)
 4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/old-repo-finder/pull/2) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
 <!--END_SECTION:activity-->
 
