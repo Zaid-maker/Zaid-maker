@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671#issuecomment-2696385933) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#670](https://github.com/Zaid-maker/status-page-advanced/issues/670#issuecomment-2696103090) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🔒 Closed issue [#17804](https://github.com/oven-sh/bun/issues/17804) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671#issuecomment-2696385933) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#671](https://github.com/Zaid-maker/status-page-advanced/issues/671) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
