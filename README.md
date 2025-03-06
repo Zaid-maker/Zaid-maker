@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Zaid-maker/old-repo-finder/pull/3) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
-2. ❌ Closed PR [#1](https://github.com/Zaid-maker/old-repo-finder/pull/1) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
-3. 🎉 Merged PR [#23](https://github.com/zaidhafeeez/watch-my-site/pull/23) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-4. 🔒 Closed issue [#17804](https://github.com/oven-sh/bun/issues/17804) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🎉 Merged PR [#28](https://github.com/Zaid-maker/Zaid-maker/pull/28) in [Zaid-maker/Zaid-maker](https://github.com/Zaid-maker/Zaid-maker)
+2. ❌ Closed PR [#15](https://github.com/Zaid-maker/turbo/pull/15) in [Zaid-maker/turbo](https://github.com/Zaid-maker/turbo)
+3. 💪 Opened PR [#3](https://github.com/Zaid-maker/old-repo-finder/pull/3) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
+4. ❌ Closed PR [#1](https://github.com/Zaid-maker/old-repo-finder/pull/1) in [Zaid-maker/old-repo-finder](https://github.com/Zaid-maker/old-repo-finder)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
