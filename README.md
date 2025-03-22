@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Zaid-maker/top-github-users-list/pull/1) in [Zaid-maker/top-github-users-list](https://github.com/Zaid-maker/top-github-users-list)
-2. 🗣 Commented on [#77196](https://github.com/vercel/next.js/pull/77196#issuecomment-2734690644) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❌ Closed PR [#68](https://github.com/Zaid-maker/newtube/pull/68) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. 🎉 Merged PR [#67](https://github.com/Zaid-maker/newtube/pull/67) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 3. 💪 Opened PR [#568](https://github.com/microsoft/typescript-go/pull/568) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 4. 🗣 Commented on [#562](https://github.com/microsoft/typescript-go/issues/562#issuecomment-2720622331) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
 <!--END_SECTION:activity-->
