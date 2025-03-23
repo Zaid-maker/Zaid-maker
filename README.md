@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](https://github.com/Zaid-maker/newtube/pull/68) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-2. 🎉 Merged PR [#67](https://github.com/Zaid-maker/newtube/pull/67) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-3. 💪 Opened PR [#568](https://github.com/microsoft/typescript-go/pull/568) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-4. 🗣 Commented on [#562](https://github.com/microsoft/typescript-go/issues/562#issuecomment-2720622331) in [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+1. 🎉 Merged PR [#69](https://github.com/Zaid-maker/newtube/pull/69) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. 🎉 Merged PR [#72](https://github.com/Zaid-maker/newtube/pull/72) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. ❌ Closed PR [#68](https://github.com/Zaid-maker/newtube/pull/68) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. 🎉 Merged PR [#67](https://github.com/Zaid-maker/newtube/pull/67) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
