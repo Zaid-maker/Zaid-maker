@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/Zaid-maker/newtube/pull/81) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-2. 🗣 Commented on [#4](https://github.com/rxliuli/tsgo-npm-release/issues/4#issuecomment-2754205155) in [rxliuli/tsgo-npm-release](https://github.com/rxliuli/tsgo-npm-release)
-3. 🎉 Merged PR [#77](https://github.com/Zaid-maker/newtube/pull/77) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-4. 🎉 Merged PR [#79](https://github.com/Zaid-maker/newtube/pull/79) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+1. ❗ Opened issue [#674](https://github.com/Zaid-maker/status-page-advanced/issues/674) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🎉 Merged PR [#81](https://github.com/Zaid-maker/newtube/pull/81) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. 🗣 Commented on [#4](https://github.com/rxliuli/tsgo-npm-release/issues/4#issuecomment-2754205155) in [rxliuli/tsgo-npm-release](https://github.com/rxliuli/tsgo-npm-release)
+4. 🎉 Merged PR [#77](https://github.com/Zaid-maker/newtube/pull/77) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
