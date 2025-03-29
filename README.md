@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/Zaid-maker/uptime-kuma/pull/15) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🎉 Merged PR [#85](https://github.com/Zaid-maker/newtube/pull/85) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-3. 🗣 Commented on [#85](https://github.com/Zaid-maker/newtube/pull/85#issuecomment-2760400025) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-4. 🗣 Commented on [#5731](https://github.com/louislam/uptime-kuma/pull/5731#issuecomment-2759762734) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ❌ Closed PR [#88](https://github.com/Zaid-maker/newtube/pull/88) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. ❌ Closed PR [#87](https://github.com/Zaid-maker/newtube/pull/87) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. ❌ Closed PR [#86](https://github.com/Zaid-maker/newtube/pull/86) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. ❌ Closed PR [#83](https://github.com/Zaid-maker/newtube/pull/83) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
