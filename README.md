@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/Zaid-maker/newtube/pull/89) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-2. 🎉 Merged PR [#87](https://github.com/Zaid-maker/newtube/pull/87) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-3. 🗣 Commented on [#87](https://github.com/Zaid-maker/newtube/pull/87#issuecomment-2764560096) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-4. ❌ Reopened PR [#87](https://github.com/Zaid-maker/newtube/pull/87) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+1. 🗣 Commented on [#675](https://github.com/Zaid-maker/status-page-advanced/issues/675#issuecomment-2764688665) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#675](https://github.com/Zaid-maker/status-page-advanced/issues/675) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 💪 Opened PR [#89](https://github.com/Zaid-maker/newtube/pull/89) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. 🎉 Merged PR [#87](https://github.com/Zaid-maker/newtube/pull/87) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
