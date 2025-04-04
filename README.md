@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/Zaid-maker/newtube/pull/110) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-2. 🎉 Merged PR [#4](https://github.com/Zaid-maker/HelpConnect/pull/4) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 🎉 Merged PR [#3](https://github.com/Zaid-maker/HelpConnect/pull/3) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-4. 🎉 Merged PR [#41](https://github.com/zaidhafeeez/watch-my-site/pull/41) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
+1. ❌ Closed PR [#112](https://github.com/Zaid-maker/newtube/pull/112) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. ❌ Closed PR [#111](https://github.com/Zaid-maker/newtube/pull/111) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. ❌ Closed PR [#109](https://github.com/Zaid-maker/newtube/pull/109) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. ❌ Closed PR [#105](https://github.com/Zaid-maker/newtube/pull/105) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
