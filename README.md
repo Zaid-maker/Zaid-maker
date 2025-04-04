@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-2. 🎉 Merged PR [#5](https://github.com/Zaid-maker/HelpConnect/pull/5) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 💪 Opened PR [#5](https://github.com/Zaid-maker/HelpConnect/pull/5) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/HelpConnect/pull/2) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+1. 💪 Opened PR [#5752](https://github.com/louislam/uptime-kuma/pull/5752) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 💪 Opened PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+3. 🎉 Merged PR [#5](https://github.com/Zaid-maker/HelpConnect/pull/5) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+4. 💪 Opened PR [#5](https://github.com/Zaid-maker/HelpConnect/pull/5) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
