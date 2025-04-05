@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-2. 💪 Opened PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 🗣 Commented on [#677](https://github.com/Zaid-maker/status-page-advanced/issues/677#issuecomment-2777587254) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#677](https://github.com/Zaid-maker/status-page-advanced/issues/677) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#483](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/483) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+3. 💪 Opened PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+4. 🗣 Commented on [#677](https://github.com/Zaid-maker/status-page-advanced/issues/677#issuecomment-2777587254) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
