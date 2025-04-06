@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#483](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/483) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
-2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 💪 Opened PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-4. 🗣 Commented on [#677](https://github.com/Zaid-maker/status-page-advanced/issues/677#issuecomment-2777587254) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#5752](https://github.com/louislam/uptime-kuma/pull/5752#issuecomment-2781648070) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. ❌ Closed PR [#483](https://github.com/DevMirza-Blog/devmirza-blog-frontend/pull/483) in [DevMirza-Blog/devmirza-blog-frontend](https://github.com/DevMirza-Blog/devmirza-blog-frontend)
+3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+4. 💪 Opened PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
