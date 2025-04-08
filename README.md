@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-2. 🗣 Commented on [#5752](https://github.com/louislam/uptime-kuma/pull/5752#issuecomment-2781648070) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/HelpConnect/pull/6) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+1. 🗣 Commented on [#5752](https://github.com/louislam/uptime-kuma/pull/5752#issuecomment-2784179000) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🎉 Merged PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+3. 🗣 Commented on [#5752](https://github.com/louislam/uptime-kuma/pull/5752#issuecomment-2781648070) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 4. 💪 Opened PR [#7](https://github.com/Zaid-maker/HelpConnect/pull/7) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
 <!--END_SECTION:activity-->
 
