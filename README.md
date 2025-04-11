@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Zaid-maker/HelpConnect/pull/8) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-2. 🎉 Merged PR [#46](https://github.com/zaidhafeeez/watch-my-site/pull/46) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-3. 💪 Opened PR [#46](https://github.com/zaidhafeeez/watch-my-site/pull/46) in [zaidhafeeez/watch-my-site](https://github.com/zaidhafeeez/watch-my-site)
-4. 🎉 Merged PR [#115](https://github.com/Zaid-maker/newtube/pull/115) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+1. 🎉 Merged PR [#10](https://github.com/Zaid-maker/HelpConnect/pull/10) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+2. 💪 Opened PR [#9](https://github.com/Zaid-maker/HelpConnect/pull/9) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+3. 🎉 Merged PR [#8](https://github.com/Zaid-maker/HelpConnect/pull/8) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+4. 💪 Opened PR [#8](https://github.com/Zaid-maker/HelpConnect/pull/8) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
