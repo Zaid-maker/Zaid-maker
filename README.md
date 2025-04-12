@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/rxliuli/tsgo-npm-release/issues/4) in [rxliuli/tsgo-npm-release](https://github.com/rxliuli/tsgo-npm-release)
-2. 🎉 Merged PR [#10](https://github.com/Zaid-maker/HelpConnect/pull/10) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 💪 Opened PR [#9](https://github.com/Zaid-maker/HelpConnect/pull/9) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-4. 🎉 Merged PR [#8](https://github.com/Zaid-maker/HelpConnect/pull/8) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+1. 🎉 Merged PR [#9](https://github.com/Zaid-maker/HelpConnect/pull/9) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+2. ❌ Closed PR [#11](https://github.com/Zaid-maker/HelpConnect/pull/11) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+3. 🗣 Commented on [#11](https://github.com/Zaid-maker/HelpConnect/pull/11#issuecomment-2798763276) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+4. 🔒 Closed issue [#4](https://github.com/rxliuli/tsgo-npm-release/issues/4) in [rxliuli/tsgo-npm-release](https://github.com/rxliuli/tsgo-npm-release)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
