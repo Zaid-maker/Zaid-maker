@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#193](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/193) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
-2. ❌ Closed PR [#191](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/191) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
-3. ❌ Closed PR [#190](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/190) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
-4. ❌ Closed PR [#189](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/189) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
+1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/PackageViz/pull/1) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+2. 💪 Opened PR [#1](https://github.com/Zaid-maker/PackageViz/pull/1) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+3. ❌ Closed PR [#193](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/193) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
+4. ❌ Closed PR [#191](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/191) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
