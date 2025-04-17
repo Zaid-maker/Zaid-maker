@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/PackageViz/pull/1) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/PackageViz/pull/1) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-3. ❌ Closed PR [#193](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/193) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
-4. ❌ Closed PR [#191](https://github.com/DevMirza-Blog/devmirza-blog-backend-new/pull/191) in [DevMirza-Blog/devmirza-blog-backend-new](https://github.com/DevMirza-Blog/devmirza-blog-backend-new)
+1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/PackageViz/pull/6) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+2. 🎉 Merged PR [#8](https://github.com/Zaid-maker/PackageViz/pull/8) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+3. 🗣 Commented on [#6](https://github.com/Zaid-maker/PackageViz/pull/6#issuecomment-2813109695) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+4. 🗣 Commented on [#8](https://github.com/Zaid-maker/PackageViz/pull/8#issuecomment-2813109479) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
