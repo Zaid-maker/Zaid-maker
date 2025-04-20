@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/Zaid-maker/PackageViz/pull/16) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-2. 🎉 Merged PR [#23](https://github.com/Zaid-maker/PackageViz/pull/23) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-3. 🎉 Merged PR [#7](https://github.com/Zaid-maker/PackageViz/pull/7) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/PackageViz/pull/6) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+1. 🎉 Merged PR [#116](https://github.com/Zaid-maker/newtube/pull/116) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. ❌ Closed PR [#16](https://github.com/Zaid-maker/PackageViz/pull/16) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+3. 🎉 Merged PR [#23](https://github.com/Zaid-maker/PackageViz/pull/23) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+4. 🎉 Merged PR [#7](https://github.com/Zaid-maker/PackageViz/pull/7) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
