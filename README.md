@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/Zaid-maker/newtube/pull/116) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-2. ❌ Closed PR [#16](https://github.com/Zaid-maker/PackageViz/pull/16) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-3. 🎉 Merged PR [#23](https://github.com/Zaid-maker/PackageViz/pull/23) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-4. 🎉 Merged PR [#7](https://github.com/Zaid-maker/PackageViz/pull/7) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+1. 🗣 Commented on [#262](https://github.com/gayanvoice/top-github-users/issues/262#issuecomment-2817348193) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+2. 🎉 Merged PR [#116](https://github.com/Zaid-maker/newtube/pull/116) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. ❌ Closed PR [#16](https://github.com/Zaid-maker/PackageViz/pull/16) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+4. 🎉 Merged PR [#23](https://github.com/Zaid-maker/PackageViz/pull/23) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
