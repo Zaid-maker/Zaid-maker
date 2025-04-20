@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/PackageViz/pull/7) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
-2. 🗣 Commented on [#12](https://github.com/Zaid-maker/HelpConnect/pull/12#issuecomment-2813197719) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
-3. 💪 Opened PR [#12](https://github.com/Zaid-maker/HelpConnect/pull/12) in [Zaid-maker/HelpConnect](https://github.com/Zaid-maker/HelpConnect)
+1. ❌ Closed PR [#16](https://github.com/Zaid-maker/PackageViz/pull/16) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+2. 🎉 Merged PR [#23](https://github.com/Zaid-maker/PackageViz/pull/23) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
+3. 🎉 Merged PR [#7](https://github.com/Zaid-maker/PackageViz/pull/7) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
 4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/PackageViz/pull/6) in [Zaid-maker/PackageViz](https://github.com/Zaid-maker/PackageViz)
 <!--END_SECTION:activity-->
 
