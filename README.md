@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/gayanvoice/top-github-users/issues/262#issuecomment-2832117716) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
-2. 🎉 Merged PR [#39](https://github.com/Zaid-maker/code-server/pull/39) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-3. 🗣 Commented on [#39](https://github.com/Zaid-maker/code-server/pull/39#issuecomment-2831195685) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
-4. 🔒 Closed issue [#681](https://github.com/Zaid-maker/status-page-advanced/issues/681) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#5738](https://github.com/louislam/uptime-kuma/pull/5738#issuecomment-2833401844) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#262](https://github.com/gayanvoice/top-github-users/issues/262#issuecomment-2832117716) in [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+3. 🎉 Merged PR [#39](https://github.com/Zaid-maker/code-server/pull/39) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
+4. 🗣 Commented on [#39](https://github.com/Zaid-maker/code-server/pull/39#issuecomment-2831195685) in [Zaid-maker/code-server](https://github.com/Zaid-maker/code-server)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
