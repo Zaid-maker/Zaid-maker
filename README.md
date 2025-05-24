@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694#issuecomment-2905045111) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#370](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/370) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+1. ❗ Opened issue [#695](https://github.com/Zaid-maker/status-page-advanced/issues/695) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694#issuecomment-2905045111) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#694](https://github.com/Zaid-maker/status-page-advanced/issues/694) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
