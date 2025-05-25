@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/Zaid-maker/status-page-advanced/issues/696#issuecomment-2906942470) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#696](https://github.com/Zaid-maker/status-page-advanced/issues/696) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#696](https://github.com/Zaid-maker/status-page-advanced/issues/696) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#695](https://github.com/Zaid-maker/status-page-advanced/issues/695#issuecomment-2906534276) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371#issuecomment-2908059317) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+2. 🗣 Commented on [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371#issuecomment-2908059002) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+3. 🗣 Commented on [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371#issuecomment-2908058665) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+4. ❗ Opened issue [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
