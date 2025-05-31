@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/jmfayard/timetraveler/pull/3#issuecomment-2913993712) in [jmfayard/timetraveler](https://github.com/jmfayard/timetraveler)
-2. 🔒 Closed issue [#1](https://github.com/jmfayard/timetraveler/issues/1) in [jmfayard/timetraveler](https://github.com/jmfayard/timetraveler)
-3. 🗣 Commented on [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371#issuecomment-2908059317) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+1. 🔒 Closed issue [#697](https://github.com/Zaid-maker/status-page-advanced/issues/697) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#697](https://github.com/Zaid-maker/status-page-advanced/issues/697#issuecomment-2922199623) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#697](https://github.com/Zaid-maker/status-page-advanced/issues/697) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🗣 Commented on [#371](https://github.com/LGBT-CN/LGBTQIA-In-China/issues/371#issuecomment-2908059002) in [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
 <!--END_SECTION:activity-->
 
