@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701#issuecomment-2965729754) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#697](https://github.com/Zaid-maker/status-page-advanced/issues/697) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#127](https://github.com/AasishPokhrel/shit/issues/127) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+2. 🗣 Commented on [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701#issuecomment-2965729754) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🔒 Closed issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ❗ Opened issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
