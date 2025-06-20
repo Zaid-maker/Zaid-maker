@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AasishPokhrel/shit/issues/1#issuecomment-2974092885) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
-2. 🔒 Closed issue [#127](https://github.com/AasishPokhrel/shit/issues/127) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/meet.ai/pull/6) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+2. 💪 Opened PR [#5](https://github.com/Zaid-maker/meet.ai/pull/5) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
 3. 💪 Opened PR [#16](https://github.com/Zaid-maker/uptime-kuma/pull/16) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 4. 🔒 Closed issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
