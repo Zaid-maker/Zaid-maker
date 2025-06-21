@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Zaid-maker/meet.ai/pull/6) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
-2. 💪 Opened PR [#5](https://github.com/Zaid-maker/meet.ai/pull/5) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
-3. 💪 Opened PR [#16](https://github.com/Zaid-maker/uptime-kuma/pull/16) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-4. 🔒 Closed issue [#701](https://github.com/Zaid-maker/status-page-advanced/issues/701) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/meet.ai/pull/5) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+2. 🎉 Merged PR [#7](https://github.com/Zaid-maker/meet.ai/pull/7) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+3. 🎉 Merged PR [#6](https://github.com/Zaid-maker/meet.ai/pull/6) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+4. 💪 Opened PR [#5](https://github.com/Zaid-maker/meet.ai/pull/5) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
