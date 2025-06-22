@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/ossdotnow/ossdotnow/pull/21) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
-2. 🎉 Merged PR [#8](https://github.com/Zaid-maker/meet.ai/pull/8) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
-3. 🎉 Merged PR [#9](https://github.com/Zaid-maker/meet.ai/pull/9) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
-4. 💪 Opened PR [#8](https://github.com/Zaid-maker/meet.ai/pull/8) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+1. 🗣 Commented on [#21](https://github.com/ossdotnow/ossdotnow/pull/21#issuecomment-2994371403) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
+2. 🗣 Commented on [#21](https://github.com/ossdotnow/ossdotnow/pull/21#issuecomment-2994370162) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
+3. 💪 Opened PR [#21](https://github.com/ossdotnow/ossdotnow/pull/21) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
+4. 🎉 Merged PR [#8](https://github.com/Zaid-maker/meet.ai/pull/8) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
