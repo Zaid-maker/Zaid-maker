@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/OpenCut-app/OpenCut/issues/9#issuecomment-2998747578) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. ❗ Opened issue [#9](https://github.com/OpenCut-app/OpenCut/issues/9) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-3. 🗣 Commented on [#21](https://github.com/ossdotnow/ossdotnow/pull/21#issuecomment-2994371403) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
-4. 🗣 Commented on [#21](https://github.com/ossdotnow/ossdotnow/pull/21#issuecomment-2994370162) in [ossdotnow/ossdotnow](https://github.com/ossdotnow/ossdotnow)
+1. 🗣 Commented on [#43](https://github.com/OpenCut-app/OpenCut/pull/43#issuecomment-2999949025) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+2. 💪 Opened PR [#43](https://github.com/OpenCut-app/OpenCut/pull/43) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. 🗣 Commented on [#9](https://github.com/OpenCut-app/OpenCut/issues/9#issuecomment-2998747578) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+4. ❗ Opened issue [#9](https://github.com/OpenCut-app/OpenCut/issues/9) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
