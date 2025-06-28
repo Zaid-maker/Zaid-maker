@@ -18,9 +18,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/OpenCut-app/OpenCut/pull/55#issuecomment-3001123507) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. 💪 Opened PR [#55](https://github.com/OpenCut-app/OpenCut/pull/55) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-3. 🗣 Commented on [#43](https://github.com/OpenCut-app/OpenCut/pull/43#issuecomment-3000889330) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+1. ❗ Opened issue [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#55](https://github.com/OpenCut-app/OpenCut/pull/55#issuecomment-3001123507) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. 💪 Opened PR [#55](https://github.com/OpenCut-app/OpenCut/pull/55) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 4. 💪 Opened PR [#10](https://github.com/Zaid-maker/meet.ai/pull/10) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
 <!--END_SECTION:activity-->
 
