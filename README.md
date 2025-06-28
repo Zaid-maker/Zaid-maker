@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702#issuecomment-3014281371) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 💪 Opened PR [#10](https://github.com/Zaid-maker/meet.ai/pull/10) in [Zaid-maker/meet.ai](https://github.com/Zaid-maker/meet.ai)
+1. 💪 Opened PR [#149](https://github.com/OpenCut-app/OpenCut/pull/149) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/OpenCut/pull/1) in [Zaid-maker/OpenCut](https://github.com/Zaid-maker/OpenCut)
+3. 🗣 Commented on [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702#issuecomment-3014281371) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
