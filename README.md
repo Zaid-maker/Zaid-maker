@@ -18,7 +18,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/OpenCut-app/OpenCut/pull/149#issuecomment-3016768316) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+1. 🎉 Merged PR [#21](https://github.com/Zaid-maker/intro-video-editor/pull/21) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 2. 💪 Opened PR [#149](https://github.com/OpenCut-app/OpenCut/pull/149) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/OpenCut/pull/1) in [Zaid-maker/OpenCut](https://github.com/Zaid-maker/OpenCut)
 4. 🗣 Commented on [#702](https://github.com/Zaid-maker/status-page-advanced/issues/702#issuecomment-3014281371) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
