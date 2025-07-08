@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#718](https://github.com/Zaid-maker/status-page-advanced/issues/718#issuecomment-3046401943) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#718](https://github.com/Zaid-maker/status-page-advanced/issues/718) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#718](https://github.com/Zaid-maker/status-page-advanced/issues/718) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#717](https://github.com/Zaid-maker/status-page-advanced/issues/717#issuecomment-3046228325) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#32](https://github.com/Zaid-maker/intro-video-editor/pull/32) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. ❌ Reopened PR [#32](https://github.com/Zaid-maker/intro-video-editor/pull/32) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. ❌ Closed PR [#32](https://github.com/Zaid-maker/intro-video-editor/pull/32) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+4. 🎉 Merged PR [#33](https://github.com/Zaid-maker/intro-video-editor/pull/33) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
