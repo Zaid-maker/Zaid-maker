@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Zaid-maker/intro-video-editor/pull/36) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 🗣 Commented on [#192](https://github.com/OpenCut-app/OpenCut/issues/192#issuecomment-3062428309) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-3. 🗣 Commented on [#46](https://github.com/Cyclone-Bot-List/uptime/issues/46#issuecomment-3058830001) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 🔒 Closed issue [#46](https://github.com/Cyclone-Bot-List/uptime/issues/46) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🎉 Merged PR [#36](https://github.com/Zaid-maker/intro-video-editor/pull/36) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. 💪 Opened PR [#36](https://github.com/Zaid-maker/intro-video-editor/pull/36) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. 🗣 Commented on [#192](https://github.com/OpenCut-app/OpenCut/issues/192#issuecomment-3062428309) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+4. 🗣 Commented on [#46](https://github.com/Cyclone-Bot-List/uptime/issues/46#issuecomment-3058830001) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
