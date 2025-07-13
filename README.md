@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/Zaid-maker/intro-video-editor/pull/39) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 💪 Opened PR [#39](https://github.com/Zaid-maker/intro-video-editor/pull/39) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 🎉 Merged PR [#38](https://github.com/Zaid-maker/intro-video-editor/pull/38) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-4. 💪 Opened PR [#38](https://github.com/Zaid-maker/intro-video-editor/pull/38) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 🎉 Merged PR [#41](https://github.com/Zaid-maker/intro-video-editor/pull/41) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. 💪 Opened PR [#40](https://github.com/Zaid-maker/intro-video-editor/pull/40) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. 🎉 Merged PR [#39](https://github.com/Zaid-maker/intro-video-editor/pull/39) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+4. 💪 Opened PR [#39](https://github.com/Zaid-maker/intro-video-editor/pull/39) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
