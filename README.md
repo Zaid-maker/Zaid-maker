@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/vanisingh-24/Payment-Gateway-Integration/pull/1) in [vanisingh-24/Payment-Gateway-Integration](https://github.com/vanisingh-24/Payment-Gateway-Integration)
-2. 🔒 Closed issue [#1](https://github.com/stuyy/2021-discord-music-bot/issues/1) in [stuyy/2021-discord-music-bot](https://github.com/stuyy/2021-discord-music-bot)
-3. 🎉 Merged PR [#40](https://github.com/Zaid-maker/intro-video-editor/pull/40) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-4. 🎉 Merged PR [#41](https://github.com/Zaid-maker/intro-video-editor/pull/41) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 💪 Opened PR [#43](https://github.com/Zaid-maker/intro-video-editor/pull/43) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. ❌ Closed PR [#1](https://github.com/vanisingh-24/Payment-Gateway-Integration/pull/1) in [vanisingh-24/Payment-Gateway-Integration](https://github.com/vanisingh-24/Payment-Gateway-Integration)
+3. 🔒 Closed issue [#1](https://github.com/stuyy/2021-discord-music-bot/issues/1) in [stuyy/2021-discord-music-bot](https://github.com/stuyy/2021-discord-music-bot)
+4. 🎉 Merged PR [#40](https://github.com/Zaid-maker/intro-video-editor/pull/40) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
