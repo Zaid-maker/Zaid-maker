@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#149](https://github.com/OpenCut-app/OpenCut/pull/149) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. 🎉 Merged PR [#43](https://github.com/Zaid-maker/intro-video-editor/pull/43) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 💪 Opened PR [#43](https://github.com/Zaid-maker/intro-video-editor/pull/43) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-4. ❌ Closed PR [#1](https://github.com/vanisingh-24/Payment-Gateway-Integration/pull/1) in [vanisingh-24/Payment-Gateway-Integration](https://github.com/vanisingh-24/Payment-Gateway-Integration)
+1. 💪 Opened PR [#44](https://github.com/Zaid-maker/intro-video-editor/pull/44) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. ❌ Closed PR [#149](https://github.com/OpenCut-app/OpenCut/pull/149) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. 🎉 Merged PR [#43](https://github.com/Zaid-maker/intro-video-editor/pull/43) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+4. 💪 Opened PR [#43](https://github.com/Zaid-maker/intro-video-editor/pull/43) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
