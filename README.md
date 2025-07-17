@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#318](https://github.com/OpenCut-app/OpenCut/pull/318) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. 🎉 Merged PR [#44](https://github.com/Zaid-maker/intro-video-editor/pull/44) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 🗣 Commented on [#291](https://github.com/OpenCut-app/OpenCut/pull/291#issuecomment-3077652179) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-4. 💪 Opened PR [#44](https://github.com/Zaid-maker/intro-video-editor/pull/44) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 🗣 Commented on [#318](https://github.com/OpenCut-app/OpenCut/pull/318#issuecomment-3079898366) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+2. 💪 Opened PR [#318](https://github.com/OpenCut-app/OpenCut/pull/318) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. 🎉 Merged PR [#44](https://github.com/Zaid-maker/intro-video-editor/pull/44) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+4. 🗣 Commented on [#291](https://github.com/OpenCut-app/OpenCut/pull/291#issuecomment-3077652179) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
