@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Zaid-maker/intro-video-editor/pull/45) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 🗣 Commented on [#21117](https://github.com/oven-sh/bun/issues/21117#issuecomment-3080781853) in [oven-sh/bun](https://github.com/oven-sh/bun)
-3. 💪 Opened PR [#322](https://github.com/OpenCut-app/OpenCut/pull/322) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-4. 🗣 Commented on [#318](https://github.com/OpenCut-app/OpenCut/pull/318#issuecomment-3079898366) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+1. ❗ Opened issue [#722](https://github.com/Zaid-maker/status-page-advanced/issues/722) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#721](https://github.com/Zaid-maker/status-page-advanced/issues/721) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#720](https://github.com/Zaid-maker/status-page-advanced/issues/720) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#46](https://github.com/Zaid-maker/intro-video-editor/pull/46) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
