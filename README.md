@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094477101) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. 💪 Opened PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-3. 🗣 Commented on [#725](https://github.com/Zaid-maker/status-page-advanced/issues/725#issuecomment-3092508438) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#725](https://github.com/Zaid-maker/status-page-advanced/issues/725) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094681303) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+2. ❌ Closed PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094477101) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+4. 💪 Opened PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
