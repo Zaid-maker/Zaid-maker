@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094681303) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-2. ❌ Closed PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-3. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094477101) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-4. 💪 Opened PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+1. ❗ Opened issue [#29](https://github.com/Anshkaran7/git-aura/issues/29) in [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura)
+2. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094681303) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+3. ❌ Closed PR [#370](https://github.com/OpenCut-app/OpenCut/pull/370) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+4. 🗣 Commented on [#370](https://github.com/OpenCut-app/OpenCut/pull/370#issuecomment-3094477101) in [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
