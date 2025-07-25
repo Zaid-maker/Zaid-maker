@@ -18,10 +18,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/Anshkaran7/git-aura/issues/29) in [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura)
-2. 🗣 Commented on [#42](https://github.com/Jackywine/Bella/pull/42#issuecomment-3101507983) in [Jackywine/Bella](https://github.com/Jackywine/Bella)
-3. 💪 Opened PR [#38](https://github.com/Jackywine/Bella/pull/38) in [Jackywine/Bella](https://github.com/Jackywine/Bella)
-4. ❌ Closed PR [#1](https://github.com/Zaid-maker/Bella/pull/1) in [Zaid-maker/Bella](https://github.com/Zaid-maker/Bella)
+1. 🔒 Closed issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726#issuecomment-3114716967) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#29](https://github.com/Anshkaran7/git-aura/issues/29) in [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura)
 <!--END_SECTION:activity-->
 
 ### :bar_chart: Coding time in the last month
