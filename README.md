@@ -18,8 +18,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Zaid-maker/uptime-kuma/pull/18) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🔒 Closed issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#6016](https://github.com/louislam/uptime-kuma/pull/6016#issuecomment-3132161733) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 💪 Opened PR [#18](https://github.com/Zaid-maker/uptime-kuma/pull/18) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 3. 🗣 Commented on [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726#issuecomment-3114716967) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
