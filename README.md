@@ -4,8 +4,6 @@
 </div>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
-[![wakatime](https://wakatime.com/badge/user/d594dc95-07a5-471b-a3e1-8d5fea65bed3.svg)](https://wakatime.com/@d594dc95-07a5-471b-a3e1-8d5fea65bed3)
-[![Visits Badge](https://badges.pufler.dev/visits/Zaid-maker/badge-it)](https://badges.pufler.dev)
 
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
@@ -23,20 +21,6 @@
 3. 🗣 Commented on [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726#issuecomment-3114716967) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ❗ Opened issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
-
-### :bar_chart: Coding time in the last month
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   44 hrs 56 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜   85.15 %
-Bash         2 hrs 5 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.95 %
-JSON         1 hr 47 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.41 %
-Other        1 hr 20 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.55 %
-JavaScript   1 hr 7 mins     🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.13 %
-```
-
-<!--END_SECTION:waka-->
 
 <details>
     <summary>💌 Contact Me</summary>
