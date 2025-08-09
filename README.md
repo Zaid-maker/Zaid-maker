@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#879](https://github.com/dyad-sh/dyad/pull/879#issuecomment-3170727829) in [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
-2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/admin-dashboard/pull/2) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
-3. ❌ Closed PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
-4. 💪 Opened PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
+1. ❗ Opened issue [#729](https://github.com/Zaid-maker/status-page-advanced/issues/729) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#728](https://github.com/Zaid-maker/status-page-advanced/issues/728) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#727](https://github.com/Zaid-maker/status-page-advanced/issues/727) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#879](https://github.com/dyad-sh/dyad/pull/879#issuecomment-3170727829) in [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
 <!--END_SECTION:activity-->
 
 <details>
