@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/admin-dashboard/pull/2) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
-2. ❌ Closed PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
-3. 💪 Opened PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
-4. ❗ Opened issue [#726](https://github.com/Zaid-maker/status-page-advanced/issues/726) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#879](https://github.com/dyad-sh/dyad/pull/879#issuecomment-3170727829) in [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/admin-dashboard/pull/2) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
+3. ❌ Closed PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
+4. 💪 Opened PR [#3](https://github.com/Zaid-maker/admin-dashboard/pull/3) in [Zaid-maker/admin-dashboard](https://github.com/Zaid-maker/admin-dashboard)
 <!--END_SECTION:activity-->
 
 <details>
