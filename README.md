@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Zaid-maker/intro-video-editor/pull/61) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 💪 Opened PR [#61](https://github.com/Zaid-maker/intro-video-editor/pull/61) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 🎉 Merged PR [#60](https://github.com/Zaid-maker/intro-video-editor/pull/60) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-4. 💪 Opened PR [#37](https://github.com/Zaid-maker/js-quiz-cli/pull/37) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
+1. 💪 Opened PR [#62](https://github.com/Zaid-maker/intro-video-editor/pull/62) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. 🎉 Merged PR [#61](https://github.com/Zaid-maker/intro-video-editor/pull/61) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. 💪 Opened PR [#61](https://github.com/Zaid-maker/intro-video-editor/pull/61) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+4. 🎉 Merged PR [#60](https://github.com/Zaid-maker/intro-video-editor/pull/60) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 <details>
