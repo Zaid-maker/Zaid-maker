@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/Zaid-maker/intro-video-editor/pull/67) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 💪 Opened PR [#38](https://github.com/Zaid-maker/js-quiz-cli/pull/38) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-3. 🎉 Merged PR [#37](https://github.com/Zaid-maker/js-quiz-cli/pull/37) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-4. 🎉 Merged PR [#62](https://github.com/Zaid-maker/intro-video-editor/pull/62) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 🗣 Commented on [#941](https://github.com/dyad-sh/dyad/pull/941#issuecomment-3191671376) in [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+2. 💪 Opened PR [#67](https://github.com/Zaid-maker/intro-video-editor/pull/67) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. 💪 Opened PR [#38](https://github.com/Zaid-maker/js-quiz-cli/pull/38) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
+4. 🎉 Merged PR [#37](https://github.com/Zaid-maker/js-quiz-cli/pull/37) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
 <!--END_SECTION:activity-->
 
 <details>
