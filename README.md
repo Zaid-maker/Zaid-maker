@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#941](https://github.com/dyad-sh/dyad/pull/941#issuecomment-3191671376) in [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
-2. 💪 Opened PR [#67](https://github.com/Zaid-maker/intro-video-editor/pull/67) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 💪 Opened PR [#38](https://github.com/Zaid-maker/js-quiz-cli/pull/38) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-4. 🎉 Merged PR [#37](https://github.com/Zaid-maker/js-quiz-cli/pull/37) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
+1. ❌ Closed PR [#205](https://github.com/Zaid-maker/newtube/pull/205) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+2. ❌ Closed PR [#204](https://github.com/Zaid-maker/newtube/pull/204) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+3. ❌ Closed PR [#203](https://github.com/Zaid-maker/newtube/pull/203) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. ❌ Closed PR [#202](https://github.com/Zaid-maker/newtube/pull/202) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 <details>
