@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/Zaid-maker/intro-video-editor/pull/67) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. ❌ Closed PR [#205](https://github.com/Zaid-maker/newtube/pull/205) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-3. ❌ Closed PR [#204](https://github.com/Zaid-maker/newtube/pull/204) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
-4. ❌ Closed PR [#203](https://github.com/Zaid-maker/newtube/pull/203) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+1. 💪 Opened PR [#68](https://github.com/Zaid-maker/intro-video-editor/pull/68) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+2. 🎉 Merged PR [#67](https://github.com/Zaid-maker/intro-video-editor/pull/67) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+3. ❌ Closed PR [#205](https://github.com/Zaid-maker/newtube/pull/205) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
+4. ❌ Closed PR [#204](https://github.com/Zaid-maker/newtube/pull/204) in [Zaid-maker/newtube](https://github.com/Zaid-maker/newtube)
 <!--END_SECTION:activity-->
 
 <details>
