@@ -16,7 +16,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/Zaid-maker/intro-video-editor/pull/74) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 🗣 Commented on [#70](https://github.com/Zaid-maker/intro-video-editor/pull/70#issuecomment-3197849081) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 2. 🎉 Merged PR [#73](https://github.com/Zaid-maker/intro-video-editor/pull/73) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 3. 💪 Opened PR [#73](https://github.com/Zaid-maker/intro-video-editor/pull/73) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 4. ❌ Closed PR [#72](https://github.com/Zaid-maker/intro-video-editor/pull/72) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
