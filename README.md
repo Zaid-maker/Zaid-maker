@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/Zaid-maker/intro-video-editor/pull/75) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-2. 💪 Opened PR [#75](https://github.com/Zaid-maker/intro-video-editor/pull/75) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-3. 🗣 Commented on [#70](https://github.com/Zaid-maker/intro-video-editor/pull/70#issuecomment-3197934983) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
-4. 🎉 Merged PR [#74](https://github.com/Zaid-maker/intro-video-editor/pull/74) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
+1. 🔒 Closed issue [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🗣 Commented on [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47#issuecomment-3207954384) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🎉 Merged PR [#75](https://github.com/Zaid-maker/intro-video-editor/pull/75) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
 <details>
