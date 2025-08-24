@@ -16,9 +16,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 🗣 Commented on [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47#issuecomment-3207954384) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. ❗ Opened issue [#47](https://github.com/Cyclone-Bot-List/uptime/issues/47) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🗣 Commented on [#733](https://github.com/Zaid-maker/status-page-advanced/issues/733#issuecomment-3217470398) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#733](https://github.com/Zaid-maker/status-page-advanced/issues/733) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#733](https://github.com/Zaid-maker/status-page-advanced/issues/733) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. 🎉 Merged PR [#75](https://github.com/Zaid-maker/intro-video-editor/pull/75) in [Zaid-maker/intro-video-editor](https://github.com/Zaid-maker/intro-video-editor)
 <!--END_SECTION:activity-->
 
