@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Zaid-maker/js-quiz-cli/pull/39) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-2. 🗣 Commented on [#739](https://github.com/Zaid-maker/status-page-advanced/issues/739#issuecomment-3226992976) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#739](https://github.com/Zaid-maker/status-page-advanced/issues/739) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#738](https://github.com/Zaid-maker/status-page-advanced/issues/738) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❗ Opened issue [#748](https://github.com/Zaid-maker/status-page-advanced/issues/748) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#747](https://github.com/Zaid-maker/status-page-advanced/issues/747) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#746](https://github.com/Zaid-maker/status-page-advanced/issues/746) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#39](https://github.com/Zaid-maker/js-quiz-cli/pull/39) in [Zaid-maker/js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
 <!--END_SECTION:activity-->
 
 <details>
