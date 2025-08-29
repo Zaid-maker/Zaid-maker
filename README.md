@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#754](https://github.com/Zaid-maker/status-page-advanced/issues/754) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#754](https://github.com/Zaid-maker/status-page-advanced/issues/754#issuecomment-3235747274) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🗣 Commented on [#753](https://github.com/Zaid-maker/status-page-advanced/issues/753#issuecomment-3235747219) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#753](https://github.com/Zaid-maker/status-page-advanced/issues/753) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#38](https://github.com/Jackywine/Bella/pull/38) in [Jackywine/Bella](https://github.com/Jackywine/Bella)
+2. 🔒 Closed issue [#754](https://github.com/Zaid-maker/status-page-advanced/issues/754) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#754](https://github.com/Zaid-maker/status-page-advanced/issues/754#issuecomment-3235747274) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#753](https://github.com/Zaid-maker/status-page-advanced/issues/753#issuecomment-3235747219) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
