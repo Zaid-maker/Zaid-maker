@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#781](https://github.com/Zaid-maker/status-page-advanced/issues/781) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. ❗ Opened issue [#780](https://github.com/Zaid-maker/status-page-advanced/issues/780) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#779](https://github.com/Zaid-maker/status-page-advanced/issues/779) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#778](https://github.com/Zaid-maker/status-page-advanced/issues/778#issuecomment-3245674774) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#781](https://github.com/Zaid-maker/status-page-advanced/issues/781#issuecomment-3250544362) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#781](https://github.com/Zaid-maker/status-page-advanced/issues/781) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#780](https://github.com/Zaid-maker/status-page-advanced/issues/780#issuecomment-3250544230) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#780](https://github.com/Zaid-maker/status-page-advanced/issues/780) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
