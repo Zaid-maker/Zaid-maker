@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/stonks-app/pull/2) in [Zaid-maker/stonks-app](https://github.com/Zaid-maker/stonks-app)
-2. 💪 Opened PR [#2](https://github.com/Zaid-maker/stonks-app/pull/2) in [Zaid-maker/stonks-app](https://github.com/Zaid-maker/stonks-app)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/stonks-app/pull/1) in [Zaid-maker/stonks-app](https://github.com/Zaid-maker/stonks-app)
-4. 💪 Opened PR [#1](https://github.com/Zaid-maker/stonks-app/pull/1) in [Zaid-maker/stonks-app](https://github.com/Zaid-maker/stonks-app)
+1. ❗ Opened issue [#805](https://github.com/Zaid-maker/status-page-advanced/issues/805) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ❗ Opened issue [#804](https://github.com/Zaid-maker/status-page-advanced/issues/804) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#803](https://github.com/Zaid-maker/status-page-advanced/issues/803) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/stonks-app/pull/2) in [Zaid-maker/stonks-app](https://github.com/Zaid-maker/stonks-app)
 <!--END_SECTION:activity-->
 
 <details>
