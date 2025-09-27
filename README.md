@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/Anshkaran7/git-aura/issues/115#issuecomment-3340649348) in [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura)
-2. 🗣 Commented on [#115](https://github.com/Anshkaran7/git-aura/issues/115#issuecomment-3340647821) in [Anshkaran7/git-aura](https://github.com/Anshkaran7/git-aura)
-3. 🗣 Commented on [#799](https://github.com/Zaid-maker/status-page-advanced/issues/799#issuecomment-3340145083) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#799](https://github.com/Zaid-maker/status-page-advanced/issues/799) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🗣 Commented on [#802](https://github.com/Zaid-maker/status-page-advanced/issues/802#issuecomment-3342026755) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#802](https://github.com/Zaid-maker/status-page-advanced/issues/802) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#801](https://github.com/Zaid-maker/status-page-advanced/issues/801#issuecomment-3342026745) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#801](https://github.com/Zaid-maker/status-page-advanced/issues/801) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
