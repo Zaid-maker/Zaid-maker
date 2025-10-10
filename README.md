@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/zaidhafeezvu/ticket-SaaS/pull/11) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-2. 🗣 Commented on [#806](https://github.com/Zaid-maker/status-page-advanced/issues/806#issuecomment-3369325086) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#806](https://github.com/Zaid-maker/status-page-advanced/issues/806) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ❗ Opened issue [#806](https://github.com/Zaid-maker/status-page-advanced/issues/806) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 💪 Opened PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 💪 Opened PR [#15](https://github.com/zaidhafeezvu/ticket-SaaS/pull/15) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
+4. 💪 Opened PR [#11](https://github.com/zaidhafeezvu/ticket-SaaS/pull/11) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
 <!--END_SECTION:activity-->
 
 <details>
