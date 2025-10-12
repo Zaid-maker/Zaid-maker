@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 💪 Opened PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
-3. 💪 Opened PR [#15](https://github.com/zaidhafeezvu/ticket-SaaS/pull/15) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-4. 💪 Opened PR [#11](https://github.com/zaidhafeezvu/ticket-SaaS/pull/11) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
+1. 💪 Opened PR [#20](https://github.com/Zaid-maker/uptime-kuma/pull/20) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+2. ❌ Closed PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 💪 Opened PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
+4. 💪 Opened PR [#15](https://github.com/zaidhafeezvu/ticket-SaaS/pull/15) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
 <!--END_SECTION:activity-->
 
 <details>
