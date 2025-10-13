@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/zaidhafeezvu/ticket-SaaS/pull/20) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-2. 💪 Opened PR [#19](https://github.com/zaidhafeezvu/ticket-SaaS/pull/19) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-3. 💪 Opened PR [#20](https://github.com/Zaid-maker/uptime-kuma/pull/20) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-4. ❌ Closed PR [#23416](https://github.com/oven-sh/bun/pull/23416) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🗣 Commented on [#809](https://github.com/Zaid-maker/status-page-advanced/issues/809#issuecomment-3395439301) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#809](https://github.com/Zaid-maker/status-page-advanced/issues/809) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. 🗣 Commented on [#808](https://github.com/Zaid-maker/status-page-advanced/issues/808#issuecomment-3395439273) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#808](https://github.com/Zaid-maker/status-page-advanced/issues/808) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
