@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](undefined) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 💪 Opened PR [#23](undefined) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-3. 💪 Opened PR [#19](undefined) in [zaidhafeezvu/ticket-SaaS](https://github.com/zaidhafeezvu/ticket-SaaS)
-4. 💪 Opened PR [#20](undefined) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
+1.  Labeled issue [#810](https://github.com/Zaid-maker/status-page-advanced/issues/810) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2.  Labeled issue [#810](https://github.com/Zaid-maker/status-page-advanced/issues/810) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#810](https://github.com/Zaid-maker/status-page-advanced/issues/810) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#21](undefined) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 <details>
