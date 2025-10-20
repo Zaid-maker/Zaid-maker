@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423677083) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-2. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423638123) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-3. 💪 Opened PR [#4](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-4. 💪 Opened PR [#3](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
+1. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423761908) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
+2. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423677083) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
+3. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423638123) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
+4. 💪 Opened PR [#4](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
 <!--END_SECTION:activity-->
 
 <details>
