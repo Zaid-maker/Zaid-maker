@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Zaid-maker/MacOS/pull/6#issuecomment-3437128068) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-2. 💪 Opened PR [#6](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-3. 💪 Opened PR [#5](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-4. 🗣 Commented on [#4](https://github.com/Zaid-maker/MacOS/pull/4#issuecomment-3423761908) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
+1.  Labeled issue [#816](https://github.com/Zaid-maker/status-page-advanced/issues/816) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2.  Labeled issue [#816](https://github.com/Zaid-maker/status-page-advanced/issues/816) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#816](https://github.com/Zaid-maker/status-page-advanced/issues/816) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4.  Labeled issue [#815](https://github.com/Zaid-maker/status-page-advanced/issues/815) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
