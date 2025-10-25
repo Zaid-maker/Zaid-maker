@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-2. 🗣 Commented on [#6](https://github.com/Zaid-maker/MacOS/pull/6#issuecomment-3437128068) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-3. 💪 Opened PR [#6](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
-4.  Labeled issue [#815](https://github.com/Zaid-maker/status-page-advanced/issues/815) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1.  Labeled issue [#817](https://github.com/Zaid-maker/status-page-advanced/issues/817) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2.  Labeled issue [#817](https://github.com/Zaid-maker/status-page-advanced/issues/817) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#817](https://github.com/Zaid-maker/status-page-advanced/issues/817) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 💪 Opened PR [#8](undefined) in [Zaid-maker/MacOS](https://github.com/Zaid-maker/MacOS)
 <!--END_SECTION:activity-->
 
 <details>
