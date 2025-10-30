@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#821](https://github.com/Zaid-maker/status-page-advanced/issues/821) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🗣 Commented on [#821](https://github.com/Zaid-maker/status-page-advanced/issues/821#issuecomment-3458801875) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3.  Labeled issue [#821](https://github.com/Zaid-maker/status-page-advanced/issues/821) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4.  Labeled issue [#821](https://github.com/Zaid-maker/status-page-advanced/issues/821) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1.  Labeled issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2.  Labeled issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🔒 Closed issue [#821](https://github.com/Zaid-maker/status-page-advanced/issues/821) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
