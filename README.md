@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
-2. 🔒 Closed issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. 🗣 Commented on [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49#issuecomment-3469976820) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4.  Labeled issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 💪 Opened PR [#2](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
+2. 💪 Opened PR [#1](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
+3. 🔒 Closed issue [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🗣 Commented on [#49](https://github.com/Cyclone-Bot-List/uptime/issues/49#issuecomment-3469976820) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
 <details>
