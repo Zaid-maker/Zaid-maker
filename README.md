@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
-2. 💪 Opened PR [#6](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
-3. 💪 Opened PR [#4](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
-4. 💪 Opened PR [#3](undefined) in [Zaid-maker/aura](https://github.com/Zaid-maker/aura)
+1.  Labeled issue [#830](https://github.com/Zaid-maker/status-page-advanced/issues/830) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2.  Labeled issue [#830](https://github.com/Zaid-maker/status-page-advanced/issues/830) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#830](https://github.com/Zaid-maker/status-page-advanced/issues/830) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4.  Labeled issue [#829](https://github.com/Zaid-maker/status-page-advanced/issues/829) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
