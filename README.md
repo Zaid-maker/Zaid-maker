@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](undefined) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🗣 Commented on [#839](https://github.com/Zaid-maker/status-page-advanced/issues/839#issuecomment-3593074457) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#838](https://github.com/Zaid-maker/status-page-advanced/issues/838) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🗣 Commented on [#838](https://github.com/Zaid-maker/status-page-advanced/issues/838#issuecomment-3593074383) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1.  Labeled issue [#52](https://github.com/Cyclone-Bot-List/uptime/issues/52) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2.  Labeled issue [#52](https://github.com/Cyclone-Bot-List/uptime/issues/52) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#52](https://github.com/Cyclone-Bot-List/uptime/issues/52) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 💪 Opened PR [#22](undefined) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
 <!--END_SECTION:activity-->
 
 <details>
