@@ -16,9 +16,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 🗣 Commented on [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55#issuecomment-3649861830) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3.  Labeled issue [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 💪 Opened PR [#1](undefined) in [Mashhood-Rehman/Restaurant](https://github.com/Mashhood-Rehman/Restaurant)
+2. 🔒 Closed issue [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. 🗣 Commented on [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55#issuecomment-3649861830) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 4.  Labeled issue [#55](https://github.com/Cyclone-Bot-List/uptime/issues/55) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
