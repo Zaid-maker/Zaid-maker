@@ -16,8 +16,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#56](https://github.com/Cyclone-Bot-List/uptime/issues/56) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. 🗣 Commented on [#56](https://github.com/Cyclone-Bot-List/uptime/issues/56#issuecomment-3665911238) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🗣 Commented on [#5364](https://github.com/louislam/uptime-kuma/pull/5364#issuecomment-3689293933) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. ❌ Closed PR [#5364](undefined) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 3.  Labeled issue [#56](https://github.com/Cyclone-Bot-List/uptime/issues/56) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 4.  Labeled issue [#56](https://github.com/Cyclone-Bot-List/uptime/issues/56) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
