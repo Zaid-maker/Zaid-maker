@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 💪 Opened PR [#2](undefined) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. ❌ Merged PR [#1](undefined) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 💪 Opened PR [#1](undefined) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1.  Labeled issue [#845](https://github.com/Zaid-maker/status-page-advanced/issues/845) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2.  Labeled issue [#845](https://github.com/Zaid-maker/status-page-advanced/issues/845) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#845](https://github.com/Zaid-maker/status-page-advanced/issues/845) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4.  Labeled issue [#844](https://github.com/Zaid-maker/status-page-advanced/issues/844) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
