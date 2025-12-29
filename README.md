@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
-2. 🗣 Commented on [#1](https://github.com/Zaid-maker/BeatAdda/pull/1#issuecomment-3696519188) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
-3. 💪 Opened PR [#1](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
-4. ❌ Merged PR [#2](undefined) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ❌ Merged PR [#2](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
+2. 💪 Opened PR [#2](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
+3. ❌ Merged PR [#1](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
+4. 🗣 Commented on [#1](https://github.com/Zaid-maker/BeatAdda/pull/1#issuecomment-3696519188) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
 <!--END_SECTION:activity-->
 
 <details>
