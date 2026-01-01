@@ -16,8 +16,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Zaid-maker/BeatAdda/pull/1#issuecomment-3696519188) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
-2. 💪 Opened PR [#2](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
+1. 💪 Opened PR [#3](https://github.com/Zaid-maker/DevMeter/pull/3) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 🗣 Commented on [#1](https://github.com/Zaid-maker/BeatAdda/pull/1#issuecomment-3696519188) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
 3. ❌ Merged PR [#1](undefined) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
 4. 🗣 Commented on [#1](https://github.com/Zaid-maker/BeatAdda/pull/1#issuecomment-3696519188) in [Zaid-maker/BeatAdda](https://github.com/Zaid-maker/BeatAdda)
 <!--END_SECTION:activity-->
