@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Zaid-maker/uptime-kuma/pull/23) in [Zaid-maker/uptime-kuma](https://github.com/Zaid-maker/uptime-kuma)
-2. 🎉 Merged PR [#6](https://github.com/Zaid-maker/DevMeter/pull/6) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#6](https://github.com/Zaid-maker/DevMeter/pull/6) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🎉 Merged PR [#5](https://github.com/Zaid-maker/DevMeter/pull/5) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ℹ️ Labeled issue [#848](https://github.com/Zaid-maker/status-page-advanced/issues/848) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ℹ️ Labeled issue [#848](https://github.com/Zaid-maker/status-page-advanced/issues/848) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#848](https://github.com/Zaid-maker/status-page-advanced/issues/848) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ℹ️ Labeled issue [#847](https://github.com/Zaid-maker/status-page-advanced/issues/847) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
