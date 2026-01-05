@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Zaid-maker/DevMeter/pull/7) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🔒 Closed issue [#57](https://github.com/Cyclone-Bot-List/uptime/issues/57) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. 🗣 Commented on [#57](https://github.com/Cyclone-Bot-List/uptime/issues/57#issuecomment-3710914331) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. ℹ️ Labeled issue [#57](https://github.com/Cyclone-Bot-List/uptime/issues/57) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/DevMeter/pull/7) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 💪 Opened PR [#7](https://github.com/Zaid-maker/DevMeter/pull/7) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 🔒 Closed issue [#57](https://github.com/Cyclone-Bot-List/uptime/issues/57) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🗣 Commented on [#57](https://github.com/Cyclone-Bot-List/uptime/issues/57#issuecomment-3710914331) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
 <details>
