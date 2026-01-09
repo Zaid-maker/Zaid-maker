@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Zaid-maker/DevMeter/pull/8) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🎉 Merged PR [#1](https://github.com/Zaid-maker/AgoraHub/pull/1) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-3. 💪 Opened PR [#1](https://github.com/Zaid-maker/AgoraHub/pull/1) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-4. 🎉 Merged PR [#7](https://github.com/Zaid-maker/DevMeter/pull/7) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🗣 Commented on [#1440](https://github.com/twitter/twemoji/pull/1440#issuecomment-3730191075) in [twitter/twemoji](https://github.com/twitter/twemoji)
+2. 💪 Opened PR [#8](https://github.com/Zaid-maker/DevMeter/pull/8) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/AgoraHub/pull/1) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+4. 💪 Opened PR [#1](https://github.com/Zaid-maker/AgoraHub/pull/1) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
 <!--END_SECTION:activity-->
 
 <details>
