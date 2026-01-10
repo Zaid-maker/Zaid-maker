@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#12](https://github.com/Zaid-maker/DevMeter/pull/12) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. ℹ️ Labeled PR [#12](https://github.com/Zaid-maker/DevMeter/pull/12) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. ℹ️ Labeled PR [#13](https://github.com/Zaid-maker/DevMeter/pull/13) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. ℹ️ Labeled PR [#13](https://github.com/Zaid-maker/DevMeter/pull/13) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🗣 Commented on [#1450](https://github.com/twitter/twemoji/pull/1450#issuecomment-3732507166) in [twitter/twemoji](https://github.com/twitter/twemoji)
+2. 🗣 Commented on [#1440](https://github.com/twitter/twemoji/pull/1440#issuecomment-3732506385) in [twitter/twemoji](https://github.com/twitter/twemoji)
+3. 🗣 Commented on [#1440](https://github.com/twitter/twemoji/pull/1440#issuecomment-3732505839) in [twitter/twemoji](https://github.com/twitter/twemoji)
+4. ℹ️ Labeled PR [#12](https://github.com/Zaid-maker/DevMeter/pull/12) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
