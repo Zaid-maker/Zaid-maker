@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/AgoraHub/pull/5) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-2. 🗣 Commented on [#13](https://github.com/Zaid-maker/DevMeter/pull/13#issuecomment-3733579701) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#5](https://github.com/Zaid-maker/AgoraHub/pull/5) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/AgoraHub/pull/2) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+1. 💪 Opened PR [#21](https://github.com/Zaid-maker/DevMeter/pull/21) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 🎉 Merged PR [#5](https://github.com/Zaid-maker/AgoraHub/pull/5) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+3. 🗣 Commented on [#13](https://github.com/Zaid-maker/DevMeter/pull/13#issuecomment-3733579701) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 💪 Opened PR [#5](https://github.com/Zaid-maker/AgoraHub/pull/5) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
 <!--END_SECTION:activity-->
 
 <details>
