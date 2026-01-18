@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Zaid-maker/DevMeter/pull/34) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 💪 Opened PR [#34](https://github.com/Zaid-maker/DevMeter/pull/34) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 🎉 Merged PR [#33](https://github.com/Zaid-maker/DevMeter/pull/33) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 💪 Opened PR [#33](https://github.com/Zaid-maker/DevMeter/pull/33) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ℹ️ Labeled issue [#58](https://github.com/Cyclone-Bot-List/uptime/issues/58) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. ℹ️ Labeled issue [#58](https://github.com/Cyclone-Bot-List/uptime/issues/58) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ❗ Opened issue [#58](https://github.com/Cyclone-Bot-List/uptime/issues/58) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. 🎉 Merged PR [#34](https://github.com/Zaid-maker/DevMeter/pull/34) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
