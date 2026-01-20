@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Zaid-maker/DevMeter/pull/36) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 💪 Opened PR [#36](https://github.com/Zaid-maker/DevMeter/pull/36) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#7](https://github.com/Zaid-maker/AgoraHub/pull/7) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-4. 🔒 Closed issue [#58](https://github.com/Cyclone-Bot-List/uptime/issues/58) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/AgoraHub/pull/7) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+2. ❌ Closed PR [#30](https://github.com/Zaid-maker/DevMeter/pull/30) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. ❌ Closed PR [#13](https://github.com/Zaid-maker/DevMeter/pull/13) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 🎉 Merged PR [#36](https://github.com/Zaid-maker/DevMeter/pull/36) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
