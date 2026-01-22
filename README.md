@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/AgoraHub/pull/7) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-2. ❌ Closed PR [#30](https://github.com/Zaid-maker/DevMeter/pull/30) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. ❌ Closed PR [#13](https://github.com/Zaid-maker/DevMeter/pull/13) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🎉 Merged PR [#36](https://github.com/Zaid-maker/DevMeter/pull/36) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ℹ️ Labeled issue [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ℹ️ Labeled issue [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ℹ️ Labeled issue [#850](https://github.com/Zaid-maker/status-page-advanced/issues/850) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
