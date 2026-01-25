@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Zaid-maker/AgoraHub/pull/8) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
-2. 🔒 Closed issue [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🗣 Commented on [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851#issuecomment-3786660665) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#850](https://github.com/Zaid-maker/status-page-advanced/issues/850) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#8](https://github.com/Zaid-maker/AgoraHub/pull/8) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+2. 💪 Opened PR [#8](https://github.com/Zaid-maker/AgoraHub/pull/8) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+3. 🔒 Closed issue [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🗣 Commented on [#851](https://github.com/Zaid-maker/status-page-advanced/issues/851#issuecomment-3786660665) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
