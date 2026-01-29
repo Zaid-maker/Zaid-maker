@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Zaid-maker/DevMeter/pull/39) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🎉 Merged PR [#3](https://github.com/zaidhafeezvu/telegram-clone/pull/3) in [zaidhafeezvu/telegram-clone](https://github.com/zaidhafeezvu/telegram-clone)
-3. 💪 Opened PR [#3](https://github.com/zaidhafeezvu/telegram-clone/pull/3) in [zaidhafeezvu/telegram-clone](https://github.com/zaidhafeezvu/telegram-clone)
-4. 🎉 Merged PR [#8](https://github.com/Zaid-maker/AgoraHub/pull/8) in [Zaid-maker/AgoraHub](https://github.com/Zaid-maker/AgoraHub)
+1. 🗣 Commented on [#40](https://github.com/Zaid-maker/DevMeter/issues/40#issuecomment-3819700230) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. ℹ️ Labeled issue [#40](https://github.com/Zaid-maker/DevMeter/issues/40) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 💪 Opened PR [#39](https://github.com/Zaid-maker/DevMeter/pull/39) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 🎉 Merged PR [#3](https://github.com/zaidhafeezvu/telegram-clone/pull/3) in [zaidhafeezvu/telegram-clone](https://github.com/zaidhafeezvu/telegram-clone)
 <!--END_SECTION:activity-->
 
 <details>
