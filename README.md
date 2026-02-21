@@ -16,9 +16,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/NoCap-Studio/NoCap-Studio/pull/1) in [NoCap-Studio/NoCap-Studio](https://github.com/NoCap-Studio/NoCap-Studio)
-2. 💪 Opened PR [#1](https://github.com/NoCap-Studio/NoCap-Studio/pull/1) in [NoCap-Studio/NoCap-Studio](https://github.com/NoCap-Studio/NoCap-Studio)
-3. 🔒 Closed issue [#852](https://github.com/Zaid-maker/status-page-advanced/issues/852) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 💪 Opened PR [#43](https://github.com/Zaid-maker/DevMeter/pull/43) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 🎉 Merged PR [#1](https://github.com/NoCap-Studio/NoCap-Studio/pull/1) in [NoCap-Studio/NoCap-Studio](https://github.com/NoCap-Studio/NoCap-Studio)
+3. 💪 Opened PR [#1](https://github.com/NoCap-Studio/NoCap-Studio/pull/1) in [NoCap-Studio/NoCap-Studio](https://github.com/NoCap-Studio/NoCap-Studio)
 4. 🗣 Commented on [#852](https://github.com/Zaid-maker/status-page-advanced/issues/852#issuecomment-3834113503) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
