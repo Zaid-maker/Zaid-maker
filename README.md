@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#169](https://github.com/cloudflare/vinext/issues/169) in [cloudflare/vinext](https://github.com/cloudflare/vinext)
-2. 🗣 Commented on [#855](https://github.com/Zaid-maker/status-page-advanced/issues/855#issuecomment-3941580093) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🔒 Closed issue [#855](https://github.com/Zaid-maker/status-page-advanced/issues/855) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#854](https://github.com/Zaid-maker/status-page-advanced/issues/854) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. ❌ Closed PR [#48](https://github.com/Zaid-maker/DevMeter/pull/48) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. ℹ️ Labeled PR [#48](https://github.com/Zaid-maker/DevMeter/pull/48) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 💪 Opened PR [#48](https://github.com/Zaid-maker/DevMeter/pull/48) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. ❌ Closed PR [#47](https://github.com/Zaid-maker/DevMeter/pull/47) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
