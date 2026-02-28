@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Zaid-maker/DevMeter/pull/50) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🗣 Commented on [#50](https://github.com/Zaid-maker/DevMeter/pull/50#issuecomment-3975295375) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. ℹ️ Labeled PR [#50](https://github.com/Zaid-maker/DevMeter/pull/50) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 💪 Opened PR [#50](https://github.com/Zaid-maker/DevMeter/pull/50) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🎉 Merged PR [#51](https://github.com/Zaid-maker/DevMeter/pull/51) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 🗣 Commented on [#51](https://github.com/Zaid-maker/DevMeter/pull/51#issuecomment-3976645574) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 🗣 Commented on [#51](https://github.com/Zaid-maker/DevMeter/pull/51#issuecomment-3976644500) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. ℹ️ Labeled PR [#51](https://github.com/Zaid-maker/DevMeter/pull/51) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
