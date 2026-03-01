@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/cloudflare/vinext/issues/169#issuecomment-3976672624) in [cloudflare/vinext](https://github.com/cloudflare/vinext)
-2. 🎉 Merged PR [#51](https://github.com/Zaid-maker/DevMeter/pull/51) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 🗣 Commented on [#51](https://github.com/Zaid-maker/DevMeter/pull/51#issuecomment-3976645574) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🗣 Commented on [#51](https://github.com/Zaid-maker/DevMeter/pull/51#issuecomment-3976644500) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ℹ️ Labeled issue [#8513](https://github.com/EclipseFdn/open-vsx.org/issues/8513) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ℹ️ Labeled issue [#8513](https://github.com/EclipseFdn/open-vsx.org/issues/8513) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. ❗ Opened issue [#8513](https://github.com/EclipseFdn/open-vsx.org/issues/8513) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🗣 Commented on [#169](https://github.com/cloudflare/vinext/issues/169#issuecomment-3976672624) in [cloudflare/vinext](https://github.com/cloudflare/vinext)
 <!--END_SECTION:activity-->
 
 <details>
