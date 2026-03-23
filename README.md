@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Zaid-maker/Chat-App-Android/pull/5) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
-2. 💪 Opened PR [#5](https://github.com/Zaid-maker/Chat-App-Android/pull/5) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
-3. 🎉 Merged PR [#4](https://github.com/Zaid-maker/Chat-App-Android/pull/4) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
-4. 💪 Opened PR [#4](https://github.com/Zaid-maker/Chat-App-Android/pull/4) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+1. 💪 Opened PR [#6](https://github.com/Zaid-maker/Chat-App-Android/pull/6) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+2. 🎉 Merged PR [#5](https://github.com/Zaid-maker/Chat-App-Android/pull/5) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+3. 💪 Opened PR [#5](https://github.com/Zaid-maker/Chat-App-Android/pull/5) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+4. 🎉 Merged PR [#4](https://github.com/Zaid-maker/Chat-App-Android/pull/4) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
 <!--END_SECTION:activity-->
 
 <details>
