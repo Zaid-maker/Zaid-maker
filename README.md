@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. ℹ️ Labeled PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🎉 Merged PR [#6](https://github.com/Zaid-maker/Chat-App-Android/pull/6) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+1. 🚀 Published release [Alpha release](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+2. 🎉 Merged PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. ℹ️ Labeled PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 💪 Opened PR [#65](https://github.com/Zaid-maker/DevMeter/pull/65) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
