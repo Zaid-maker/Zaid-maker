@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Alpha release 7](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260329) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-2. 🚀 Published release [Alpha release 6](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328.6) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-3. 🚀 Published release [Alpha release 5](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328.5) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-4. 🚀 Published release [Alpha release 4](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328.4) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+1. 💪 Opened PR [#1](https://github.com/Zaid-maker/kernel/pull/1) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+2. 🚀 Published release [Alpha release 7](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260329) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+3. 🚀 Published release [Alpha release 6](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328.6) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+4. 🚀 Published release [Alpha release 5](https://github.com/Zaid-maker/kernel/releases/tag/v0.0.20260328.5) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
 <!--END_SECTION:activity-->
 
 <details>
