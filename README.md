@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/Zaid-maker/DevMeter/pull/70) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🗣 Commented on [#70](https://github.com/Zaid-maker/DevMeter/pull/70#issuecomment-4184832170) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#70](https://github.com/Zaid-maker/DevMeter/pull/70) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🎉 Merged PR [#68](https://github.com/Zaid-maker/DevMeter/pull/68) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🎉 Merged PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+2. 💪 Opened PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+3. 🎉 Merged PR [#70](https://github.com/Zaid-maker/DevMeter/pull/70) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 🗣 Commented on [#70](https://github.com/Zaid-maker/DevMeter/pull/70#issuecomment-4184832170) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
