@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Zaid-maker/kernel/pull/13) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-2. 🎉 Merged PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-3. 💪 Opened PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
-4. 🎉 Merged PR [#70](https://github.com/Zaid-maker/DevMeter/pull/70) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🎉 Merged PR [#13](https://github.com/Zaid-maker/kernel/pull/13) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+2. 💪 Opened PR [#13](https://github.com/Zaid-maker/kernel/pull/13) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+3. 🎉 Merged PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+4. 💪 Opened PR [#12](https://github.com/Zaid-maker/kernel/pull/12) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
 <!--END_SECTION:activity-->
 
 <details>
