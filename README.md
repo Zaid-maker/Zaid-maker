@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. ℹ️ Labeled PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 🎉 Merged PR [#69](https://github.com/Zaid-maker/DevMeter/pull/69) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 💪 Opened PR [#15](https://github.com/Zaid-maker/kernel/pull/15) in [Zaid-maker/kernel](https://github.com/Zaid-maker/kernel)
+2. ❌ Closed PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. ℹ️ Labeled PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 💪 Opened PR [#72](https://github.com/Zaid-maker/DevMeter/pull/72) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
