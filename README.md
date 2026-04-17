@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zaid-maker/Chat-App-Android/pull/7) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
-2. 💪 Opened PR [#7](https://github.com/Zaid-maker/Chat-App-Android/pull/7) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
-3. ❗ Opened issue [#9655](https://github.com/EclipseFdn/open-vsx.org/issues/9655) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🔒 Closed issue [#59](https://github.com/Cyclone-Bot-List/uptime/issues/59) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+1. 💪 Opened PR [#8](https://github.com/Zaid-maker/Chat-App-Android/pull/8) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+2. 🎉 Merged PR [#7](https://github.com/Zaid-maker/Chat-App-Android/pull/7) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+3. 💪 Opened PR [#7](https://github.com/Zaid-maker/Chat-App-Android/pull/7) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+4. ❗ Opened issue [#9655](https://github.com/EclipseFdn/open-vsx.org/issues/9655) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 <details>
