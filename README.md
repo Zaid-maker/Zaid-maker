@@ -16,9 +16,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 💪 Opened PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. 💪 Opened PR [#9](https://github.com/Zaid-maker/Chat-App-Android/pull/9) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
+1. 💪 Opened PR [#1](https://github.com/Zaid-maker/Acadify/pull/1) in [Zaid-maker/Acadify](https://github.com/Zaid-maker/Acadify)
+2. ℹ️ Labeled PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. 💪 Opened PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 4. 🎉 Merged PR [#8](https://github.com/Zaid-maker/Chat-App-Android/pull/8) in [Zaid-maker/Chat-App-Android](https://github.com/Zaid-maker/Chat-App-Android)
 <!--END_SECTION:activity-->
 
