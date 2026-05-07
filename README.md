@@ -16,8 +16,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/Acadify/pull/1) in [Zaid-maker/Acadify](https://github.com/Zaid-maker/Acadify)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/Acadify/pull/1) in [Zaid-maker/Acadify](https://github.com/Zaid-maker/Acadify)
+1. 🎉 Merged PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
+2. 💪 Opened PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
 3. ℹ️ Labeled PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 4. 💪 Opened PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
