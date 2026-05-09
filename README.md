@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
-2. 💪 Opened PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
-3. ℹ️ Labeled PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 💪 Opened PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
 <!--END_SECTION:activity-->
 
 <details>
