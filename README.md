@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🎉 Merged PR [#1](https://github.com/Acadify-PK/Acadify/pull/1) in [Acadify-PK/Acadify](https://github.com/Acadify-PK/Acadify)
+1. 🔒 Closed issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🗣 Commented on [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858#issuecomment-4413657303) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ℹ️ Labeled issue [#858](https://github.com/Zaid-maker/status-page-advanced/issues/858) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
