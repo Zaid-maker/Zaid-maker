@@ -16,9 +16,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 🗣 Commented on [#861](https://github.com/Zaid-maker/status-page-advanced/issues/861#issuecomment-4565000283) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ℹ️ Labeled issue [#861](https://github.com/Zaid-maker/status-page-advanced/issues/861) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+2. 💪 Opened PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+3. ❌ Closed PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 4. ℹ️ Labeled issue [#861](https://github.com/Zaid-maker/status-page-advanced/issues/861) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
