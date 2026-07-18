@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/Flowee/pull/1) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
-2. 💪 Opened PR [#1](https://github.com/Zaid-maker/Flowee/pull/1) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
-3. 🎉 Merged PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. 💪 Opened PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+1. 🎉 Merged PR [#3](https://github.com/Zaid-maker/Flowee/pull/3) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+2. 💪 Opened PR [#3](https://github.com/Zaid-maker/Flowee/pull/3) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+3. 🎉 Merged PR [#2](https://github.com/Zaid-maker/Flowee/pull/2) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+4. 💪 Opened PR [#2](https://github.com/Zaid-maker/Flowee/pull/2) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
 <!--END_SECTION:activity-->
 
 <details>
