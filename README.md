@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-2. 💪 Opened PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-3. ❌ Closed PR [#75](https://github.com/Zaid-maker/DevMeter/pull/75) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
-4. ℹ️ Labeled issue [#861](https://github.com/Zaid-maker/status-page-advanced/issues/861) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#1](https://github.com/Zaid-maker/Flowee/pull/1) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+2. 💪 Opened PR [#1](https://github.com/Zaid-maker/Flowee/pull/1) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+3. 🎉 Merged PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
+4. 💪 Opened PR [#77](https://github.com/Zaid-maker/DevMeter/pull/77) in [Zaid-maker/DevMeter](https://github.com/Zaid-maker/DevMeter)
 <!--END_SECTION:activity-->
 
 <details>
