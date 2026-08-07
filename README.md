@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-2. ℹ️ Labeled issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-3. ❗ Opened issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
-4. 💪 Opened PR [#3](https://github.com/Zaid-maker/Flowee/pull/3) in [Zaid-maker/Flowee](https://github.com/Zaid-maker/Flowee)
+1. 🗣 Commented on [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60#issuecomment-5211037192) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+2. 🔒 Closed issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+3. ℹ️ Labeled issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
+4. ℹ️ Labeled issue [#60](https://github.com/Cyclone-Bot-List/uptime/issues/60) in [Cyclone-Bot-List/uptime](https://github.com/Cyclone-Bot-List/uptime)
 <!--END_SECTION:activity-->
 
 <details>
