@@ -16,7 +16,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#862](https://github.com/Zaid-maker/status-page-advanced/issues/862#issuecomment-5347820603) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🚀 Published release [v0.1.8](https://github.com/Zaid-maker/urdu-text-utils/releases/tag/v0.1.8) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
 2. 🔒 Closed issue [#862](https://github.com/Zaid-maker/status-page-advanced/issues/862) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 3. ℹ️ Labeled issue [#862](https://github.com/Zaid-maker/status-page-advanced/issues/862) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 4. ℹ️ Labeled issue [#862](https://github.com/Zaid-maker/status-page-advanced/issues/862) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
