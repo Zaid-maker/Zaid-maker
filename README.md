@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/musmanpak/react-urdu-input/issues/1) in [musmanpak/react-urdu-input](https://github.com/musmanpak/react-urdu-input)
-2. ❗ Opened issue [#1](https://github.com/spyhunk/romanUrdu2UrduTranslitration/issues/1) in [spyhunk/romanUrdu2UrduTranslitration](https://github.com/spyhunk/romanUrdu2UrduTranslitration)
-3. ❗ Opened issue [#1](https://github.com/zohaibadnan137/urduify/issues/1) in [zohaibadnan137/urduify](https://github.com/zohaibadnan137/urduify)
-4. 🚀 Published release [v0.1.8](https://github.com/Zaid-maker/urdu-text-utils/releases/tag/v0.1.8) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
+1. 💪 Opened PR [#2](https://github.com/musmanpak/react-urdu-input/pull/2) in [musmanpak/react-urdu-input](https://github.com/musmanpak/react-urdu-input)
+2. 💪 Opened PR [#2](https://github.com/spyhunk/romanUrdu2UrduTranslitration/pull/2) in [spyhunk/romanUrdu2UrduTranslitration](https://github.com/spyhunk/romanUrdu2UrduTranslitration)
+3. 💪 Opened PR [#2](https://github.com/zohaibadnan137/urduify/pull/2) in [zohaibadnan137/urduify](https://github.com/zohaibadnan137/urduify)
+4. ❗ Opened issue [#1](https://github.com/musmanpak/react-urdu-input/issues/1) in [musmanpak/react-urdu-input](https://github.com/musmanpak/react-urdu-input)
 <!--END_SECTION:activity-->
 
 <details>
