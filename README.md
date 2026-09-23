@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/musmanpak/react-urdu-input/issues/1#issuecomment-5574618865) in [musmanpak/react-urdu-input](https://github.com/musmanpak/react-urdu-input)
-2. 🗣 Commented on [#1](https://github.com/spyhunk/romanUrdu2UrduTranslitration/issues/1#issuecomment-5574618523) in [spyhunk/romanUrdu2UrduTranslitration](https://github.com/spyhunk/romanUrdu2UrduTranslitration)
-3. 🗣 Commented on [#1](https://github.com/zohaibadnan137/urduify/issues/1#issuecomment-5574617417) in [zohaibadnan137/urduify](https://github.com/zohaibadnan137/urduify)
-4. 💪 Opened PR [#2](https://github.com/musmanpak/react-urdu-input/pull/2) in [musmanpak/react-urdu-input](https://github.com/musmanpak/react-urdu-input)
+1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/urdu-text-utils/pull/2) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/urdu-text-utils/pull/2) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/urdu-text-utils/pull/1) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
+4. 💪 Opened PR [#1](https://github.com/Zaid-maker/urdu-text-utils/pull/1) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
 <!--END_SECTION:activity-->
 
 <details>
