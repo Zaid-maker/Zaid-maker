@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/urdu-text-utils/pull/2) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
-2. 💪 Opened PR [#2](https://github.com/Zaid-maker/urdu-text-utils/pull/2) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/urdu-text-utils/pull/1) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
-4. 💪 Opened PR [#1](https://github.com/Zaid-maker/urdu-text-utils/pull/1) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
+1. ℹ️ Labeled issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. ℹ️ Labeled issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ❗ Opened issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/urdu-text-utils/pull/2) in [Zaid-maker/urdu-text-utils](https://github.com/Zaid-maker/urdu-text-utils)
 <!--END_SECTION:activity-->
 
 <details>
