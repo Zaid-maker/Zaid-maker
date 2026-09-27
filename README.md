@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863#issuecomment-5839184436) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ℹ️ Labeled issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. ℹ️ Labeled issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/Vscode-Extensions-Analytics/pull/2) in [Zaid-maker/Vscode-Extensions-Analytics](https://github.com/Zaid-maker/Vscode-Extensions-Analytics)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/Vscode-Extensions-Analytics/pull/2) in [Zaid-maker/Vscode-Extensions-Analytics](https://github.com/Zaid-maker/Vscode-Extensions-Analytics)
+3. 🗣 Commented on [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863#issuecomment-5839184436) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. 🔒 Closed issue [#863](https://github.com/Zaid-maker/status-page-advanced/issues/863) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
