@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. ℹ️ Labeled issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. ❗ Opened issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🎉 Merged PR [#2](https://github.com/Zaid-maker/Vscode-Extensions-Analytics/pull/2) in [Zaid-maker/Vscode-Extensions-Analytics](https://github.com/Zaid-maker/Vscode-Extensions-Analytics)
+1. 🗣 Commented on [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864#issuecomment-5873685189) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+2. 🔒 Closed issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+3. ℹ️ Labeled issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+4. ℹ️ Labeled issue [#864](https://github.com/Zaid-maker/status-page-advanced/issues/864) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
 <!--END_SECTION:activity-->
 
 <details>
