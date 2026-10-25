@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#868](https://github.com/Zaid-maker/status-page-advanced/issues/868#issuecomment-6234734744) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-2. 🔒 Closed issue [#868](https://github.com/Zaid-maker/status-page-advanced/issues/868) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-3. 🗣 Commented on [#867](https://github.com/Zaid-maker/status-page-advanced/issues/867#issuecomment-6234733047) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-4. 🔒 Closed issue [#867](https://github.com/Zaid-maker/status-page-advanced/issues/867) in [Zaid-maker/status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
+1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+2. 💪 Opened PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+4. 💪 Opened PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
 <!--END_SECTION:activity-->
 
 <details>
