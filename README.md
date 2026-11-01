@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-2. 💪 Opened PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-3. 🎉 Merged PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-4. 💪 Opened PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+1. 🎉 Merged PR [#2](https://github.com/spyhunk/romanUrdu2UrduTranslitration/pull/2) in [spyhunk/romanUrdu2UrduTranslitration](https://github.com/spyhunk/romanUrdu2UrduTranslitration)
+2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+3. 💪 Opened PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
+4. 🎉 Merged PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
 <!--END_SECTION:activity-->
 
 <details>
