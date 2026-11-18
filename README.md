@@ -1,78 +1,115 @@
 <div align="center">
-    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif">, I'm DevMirza</h1>
-    <h4 align="center">A Full-stack developer who codes Sh$t Stuffs!</h4>
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · zaid-maker</sub></p>
+<h1>Zaid Hafeez</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-stack software engineer</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Lahore, Pakistan · Building at Your IT Expert Limited</sub></p>
+<p><a href="https://github.com/zaid-maker">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/zaidhunyar">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/53424436?u=c665cdf38a81bb338348b7dc066d64b6e40a635e&amp;v=4" width="180" alt="Zaid Hafeez GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+<h2>What teams can evaluate quickly</h2>
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>151 repositories · 243 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>5,583 contributions · 368 active days</p></td>
+</tr>
+</table>
 
-<div align="center">
-    <a href="https://www.devmirza.ml">
-        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
-    </a>
-</div>
+<p><sub>Full-stack software engineer</sub></p>
 
-## ⚡ Recent Activity
+<h2>Proof at a glance</h2>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/spyhunk/romanUrdu2UrduTranslitration/pull/2) in [spyhunk/romanUrdu2UrduTranslitration](https://github.com/spyhunk/romanUrdu2UrduTranslitration)
-2. 🎉 Merged PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-3. 💪 Opened PR [#2](https://github.com/Zaid-maker/yt-channel-report/pull/2) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-4. 🎉 Merged PR [#1](https://github.com/Zaid-maker/yt-channel-report/pull/1) in [Zaid-maker/yt-channel-report](https://github.com/Zaid-maker/yt-channel-report)
-<!--END_SECTION:activity-->
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>151</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>243</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5,583</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>233</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<details>
-    <summary>💌 Contact Me</summary>
-    <div>
-        <samp>
-            <h2 align="center">😎 you can reach me at:</h2>
-            <p align="center">
-                <a href="https://www.linkedin.com/in/zaid-hafeez-7084b0149/" target="blank">
-                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-                </a>
-            </p>
-        </samp>
-    </div>
-</details>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Zaid Hafeez GitHub proof metrics" />
+</picture>
+</p>
 
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-    <div>
-        <h2 align="center">📊 Github Stats</h2>
-        <br />
-        <p align="center">
-            <a href="https://github.com/Zaid-maker">
-                <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=Zaid-maker&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-            </a>
-        </p>
-        <p align="center">
-            <a href="https://github.com/Zaid-maker">
-                <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Zaid-maker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-                <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-            </a>
-        </p>
-    </div>
-</details>
+<h2>Selected work</h2>
 
-<details>
-    <summary>⚙️ Technologies i use</summary>
-    <div>
-        <h2 align="center"> ⚙️ Technologies I use </h2>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express&theme=dark" />
-    </div>
-</details>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&repos=zaid-maker%2FGamehub%2Czaid-maker%2Fevently%2Czaid-maker%2Ffinance%2Czaid-maker%2Fmiro-boards&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&repos=zaid-maker%2FGamehub%2Czaid-maker%2Fevently%2Czaid-maker%2Ffinance%2Czaid-maker%2Fmiro-boards&v=recruiter-projects-1&mode=dark" width="100%" alt="Zaid Hafeez selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Zaid-maker/Gamehub">Gamehub</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 5 · 🍴 1</sub></p>
+<p><a href="https://github.com/Zaid-maker/Gamehub">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <br/>
-  <h2 align="center">👇 latest contribution 👇</h2>
-    <a href="https://github.com/Zaid-maker/"><img alt="Zaid-maker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-maker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</details>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Zaid-maker/evently">evently</a></h3><p>Event organization web app like Eventbrite or Meetup</p><p><sub>TypeScript · ⭐ 3</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Zaid-maker/finance">finance</a></h3><p>Fiance in nextjs</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Zaid-maker/miro-boards">miro-boards</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+</tr>
+</table>
 
-<details>
-    <summary>🤡 More Advanced Activity Graph</summary>
-    <br />
-    <h2 align="center">🤡 More Advanced Activity Graph</h2>
-    <img src="https://raw.githubusercontent.com/Zaid-maker/Zaid-maker/master/profile-3d-contrib/profile-night-green.svg" />
-</details>
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Zaid Hafeez technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>51% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=zaid-maker&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F53424436%3Fu%3Dc665cdf38a81bb338348b7dc066d64b6e40a635e%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Zaid Hafeez contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/zaid-maker">GitHub</a><br /><a href="https://x.com/zaidhunyar">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Zaid Hafeez · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
